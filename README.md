@@ -3,15 +3,9 @@
 An automated end-to-end intelligence and outreach pipeline designed to discover, qualify, enrich, and contact Tech & AI micro-influencers. Built with a focus on audit transparency, zero-hallucination contact enrichment, guardrailed LLM personalization, and idempotent dispatch safety.
 
 ---
-
-### 🎥 Video Demo Walkthrough
-[![Watch Video Walkthrough](https://img.shields.io/badge/▶%20Watch%20Demo-Google%20Drive%20Video-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1JpQRVPDrk6r8gLtfwIgz4waeCLRd6rOG/view?usp=sharing)
-
 > **Direct Video Link:** [https://drive.google.com/file/d/1JpQRVPDrk6r8gLtfwIgz4waeCLRd6rOG/view?usp=sharing](https://drive.google.com/file/d/1JpQRVPDrk6r8gLtfwIgz4waeCLRd6rOG/view?usp=sharing)
 > 
-> *A full screen walkthrough showcasing live creator discovery, audit classification, Gemini 2.5 Flash personalization with guardrails, and idempotent dispatch simulation.*
 
----
 
 ## 1. System Architecture & Pipeline Flow
 
