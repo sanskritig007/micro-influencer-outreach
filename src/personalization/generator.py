@@ -73,7 +73,7 @@ def call_gemini(user_prompt: str, api_key: str = GEMINI_API_KEY, max_retries: in
 
 
 def enforce_guardrails(
-    pitch_data: Dict, profile: Dict, api_key: str = GEMINI_API_KEY
+    pitch_data: Dict, profile: Dict, custom_campaign_notes: Optional[str] = None, api_key: str = GEMINI_API_KEY
 ) -> Dict:
     """Enforce word count limits and brand guardrails with automated self-correction."""
     email = pitch_data.get("email_pitch", "")
@@ -95,6 +95,8 @@ def enforce_guardrails(
         f"Email={email_wc} words (expected 60-90), DM={dm_wc} words (expected 15-30)."
     )
 
+    notes_clause = f"- Preserve custom offer context: '{custom_campaign_notes}' in both email and DM." if custom_campaign_notes else ""
+
     correction_prompt = f"""Adjust the following outreach texts to strictly satisfy word limits.
 
 CURRENT TEXTS:
@@ -105,6 +107,7 @@ STRICT RULES:
 - The adjusted Email MUST be strictly between 60 and 90 words.
 - The adjusted DM MUST be strictly between 15 and 30 words.
 - Keep the exact context regarding recent video: "{profile.get('recent_video_title')}".
+{notes_clause}
 
 Return raw JSON:
 {{
@@ -131,7 +134,7 @@ def generate_pitch_for_influencer(
         return None
 
     # Apply guardrails & self-correction
-    validated = enforce_guardrails(raw_response, profile_dict)
+    validated = enforce_guardrails(raw_response, profile_dict, custom_campaign_notes=custom_campaign_notes)
 
     email = validated.get("email_pitch", "").strip()
     dm = validated.get("instagram_dm", "").strip()

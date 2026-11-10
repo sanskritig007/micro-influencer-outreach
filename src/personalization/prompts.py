@@ -65,6 +65,7 @@ SPECIFICATIONS:
 2. Instagram DM:
    - Target Length: Strictly 15 to 30 words.
    - Tone: Short, natural, peer-to-peer.
+   - Content: Reference their recent content and naturally weave in the custom offer/perk if provided.
 
 Return ONLY raw JSON in this schema:
 {{

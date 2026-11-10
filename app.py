@@ -40,10 +40,25 @@ st.markdown(
         font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
     }
 
+    /* Completely Hide Streamlit Header, Deploy Button, and Default Menu */
+    #MainMenu {visibility: hidden; display: none !important;}
+    header {visibility: hidden; display: none !important;}
+    footer {visibility: hidden; display: none !important;}
+    [data-testid="stToolbar"] {visibility: hidden; display: none !important;}
+    [data-testid="stDecoration"] {visibility: hidden; display: none !important;}
+    [data-testid="stHeader"] {visibility: hidden; display: none !important;}
+    .stDeployButton {display: none !important;}
+
     /* Main background */
     .stApp {
         background-color: #0B0F17;
         color: #E2E8F0;
+    }
+
+    /* Remove Top Header Padding Gap */
+    .block-container {
+        padding-top: 1rem !important;
+        padding-bottom: 2rem !important;
     }
 
     /* Top Navigation Banner */
@@ -599,7 +614,10 @@ with tab3:
                                 current_pitch["dm_word_count"] = new_p.dm_word_count
                                 with open(messages_path, "w", encoding="utf-8") as f_out:
                                     json.dump(pitches, f_out, indent=2)
+                                st.success("Outreach successfully regenerated with custom terms!")
                                 st.rerun()
+                            else:
+                                st.warning("Gemini rate limit or network busy. Please wait a moment and retry.")
 
 
 # ==========================================
@@ -696,15 +714,30 @@ with tab4:
         with open(messages_path, "r", encoding="utf-8") as f:
             all_pitches = json.load(f)
 
-        dm_col1, dm_col2 = st.columns([1.5, 0.5])
-        with dm_col1:
-            dm_target = st.selectbox("Select Influencer for DM Dispatch:", [p["influencer_name"] for p in all_pitches], key="dm_select_modern")
-            target_obj = next((p for p in all_pitches if p["influencer_name"] == dm_target), None)
-            if target_obj:
-                dm_wf = prepare_instagram_dm_workflow(dm_target, None, target_obj.get("instagram_dm", ""))
+        # Load real handle mapping from filtered dataset
+        handle_map = {}
+        if FILTERED_DATA_PATH.exists():
+            with open(FILTERED_DATA_PATH, "r", encoding="utf-8") as f_f:
+                fdata = json.load(f_f)
+                for item in fdata.get("qualified_influencers", []):
+                    p = item["profile"]
+                    handle_map[p["name"]] = p.get("secondary_handles")
+
+        all_names = [p["influencer_name"] for p in all_pitches]
+        dm_target = st.selectbox(
+            "Select Influencer for DM Dispatch:",
+            all_names,
+            key="dm_dispatch_dropdown",
+        )
+
+        target_obj = next((p for p in all_pitches if p["influencer_name"] == dm_target), None)
+        if target_obj:
+            creator_handle = handle_map.get(dm_target) or dm_target.lower().replace(" ", "")
+            dm_wf = prepare_instagram_dm_workflow(dm_target, creator_handle, target_obj.get("instagram_dm", ""))
+
+            dm_col1, dm_col2 = st.columns([1.5, 0.5])
+            with dm_col1:
                 st.code(dm_wf["dm_text"], language="text")
-        with dm_col2:
-            if target_obj:
-                st.markdown("<br>", unsafe_allow_html=True)
+            with dm_col2:
                 st.markdown(f"**Target Handle:** `{dm_wf['instagram_handle']}`")
                 st.link_button("Open Instagram Profile", dm_wf["profile_url"], use_container_width=True)
