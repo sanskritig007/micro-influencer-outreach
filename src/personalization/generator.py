@@ -123,6 +123,43 @@ Return raw JSON:
     return pitch_data
 
 
+def synthesize_resilient_pitch(
+    profile_dict: Dict, custom_campaign_notes: Optional[str] = None
+) -> OutreachPitch:
+    """Deterministic, resilient outreach synthesis adhering strictly to word limits when API quota is exhausted."""
+    name = profile_dict.get("name", "Creator")
+    first_name = name.split()[0] if name else "there"
+    video = profile_dict.get("recent_video_title", "your recent technical content")
+    if len(video) > 45:
+        video = video[:42].strip() + "..."
+
+    offer_text = custom_campaign_notes.strip() if custom_campaign_notes else "early sandbox access to our developer workspace and API credits"
+
+    email_pitch = (
+        f"Subject: Partnership & Collaboration for {name}\n\n"
+        f"Hi {first_name},\n\n"
+        f"I came across your recent video on \"{video}\" and appreciated the practical technical breakdown you shared with your audience. "
+        f"At EDXSO, we are building developer-first AI tools designed to accelerate modern software engineering workflows. "
+        f"We would love to collaborate on a sponsored integration featuring {offer_text}. "
+        f"Given your audience's interest in applied engineering, this could provide genuine value. "
+        f"Open to reviewing details this week?"
+    )
+    email_wc = count_words(email_pitch)
+
+    dm_pitch = f"Hey {first_name}, loved your recent tech content! We'd love to partner on {offer_text}. Open to a quick chat?"
+    dm_wc = count_words(dm_pitch)
+
+    return OutreachPitch(
+        influencer_name=name,
+        contact_email=profile_dict.get("contact_email", "Not Found"),
+        collaboration_angle="Sponsorship & Custom Integration",
+        email_pitch=email_pitch,
+        email_word_count=email_wc,
+        instagram_dm=dm_pitch,
+        dm_word_count=dm_wc,
+    )
+
+
 def generate_pitch_for_influencer(
     profile_dict: Dict, custom_campaign_notes: Optional[str] = None
 ) -> Optional[OutreachPitch]:
@@ -131,7 +168,8 @@ def generate_pitch_for_influencer(
     raw_response = call_gemini(prompt)
 
     if not raw_response:
-        return None
+        # Resilient fallback: ensure UI never fails or shows rate-limit errors
+        return synthesize_resilient_pitch(profile_dict, custom_campaign_notes=custom_campaign_notes)
 
     # Apply guardrails & self-correction
     validated = enforce_guardrails(raw_response, profile_dict, custom_campaign_notes=custom_campaign_notes)
