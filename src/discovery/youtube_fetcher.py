@@ -17,14 +17,15 @@ from src.models import InfluencerProfile
 logging.basicConfig(level=logging.INFO, format="%(levelname)s: %(message)s")
 logger = logging.getLogger(__name__)
 
-# Search queries designed to discover Tech & AI micro-influencers
+# Hybrid search queries (combining active video creators and channel directories)
 DEFAULT_SEARCH_QUERIES = [
-    "AI tools tutorial",
-    "Python automation projects",
-    "Machine Learning developer",
-    "tech gadgets review",
-    "coding workflows AI",
-    "software engineering tips",
+    ("Python automation projects tutorial", "video"),
+    ("AI tools productivity review", "video"),
+    ("Machine Learning developer projects", "video"),
+    ("tech review gadgets setup", "video"),
+    ("coding with AI agents tutorial", "video"),
+    ("AI tools tutorial", "channel"),
+    ("Python developer coding", "channel"),
 ]
 
 
@@ -68,19 +69,19 @@ def extract_content_themes(text: str) -> List[str]:
     return themes if themes else ["Tech & AI Content"]
 
 
-def search_channel_ids(youtube, queries: List[str], target_channels: int = 70) -> List[str]:
+def search_channel_ids(youtube, queries: List[Tuple[str, str]], target_channels: int = 80) -> List[str]:
     """Search YouTube for channels matching our target niche keywords."""
     discovered_ids = []
 
     logger.info(f"Starting channel discovery across {len(queries)} search queries...")
-    for query in queries:
+    for query, search_type in queries:
         if len(discovered_ids) >= target_channels:
             break
 
         try:
             request = youtube.search().list(
                 q=query,
-                type="channel",
+                type=search_type,
                 part="snippet",
                 maxResults=25,
             )
@@ -91,7 +92,7 @@ def search_channel_ids(youtube, queries: List[str], target_channels: int = 70) -
                 if channel_id not in discovered_ids:
                     discovered_ids.append(channel_id)
 
-            logger.info(f"Query '{query}': Found {len(response.get('items', []))} channels. Total unique so far: {len(discovered_ids)}")
+            logger.info(f"Query '{query}' ({search_type}): Total unique channels so far: {len(discovered_ids)}")
 
         except HttpError as err:
             logger.error(f"YouTube search error for query '{query}': {err}")

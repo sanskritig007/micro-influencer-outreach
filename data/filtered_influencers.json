@@ -1,0 +1,1947 @@
+{
+  "niche": "Tech & AI Tools",
+  "total_evaluated": 55,
+  "total_passed": 15,
+  "total_failed": 40,
+  "pass_rate_pct": 27.3,
+  "qualified_influencers": [
+    {
+      "profile": {
+        "channel_id": "UC9Tl0-lzeDPH4y7LcRwRSQA",
+        "name": "Egor Howell",
+        "platform": "YouTube",
+        "profile_url": "https://www.youtube.com/@egorhowell",
+        "follower_count": 73200,
+        "engagement_rate": 0.07,
+        "niche": "Tech & AI Tools",
+        "content_themes": [
+          "AI & LLMs"
+        ],
+        "contact_email": "Not Found",
+        "secondary_handles": "@egorhowell",
+        "website": null,
+        "audience_geography": "Global",
+        "audience_age": "18-34",
+        "audience_gender": "Mixed",
+        "recent_video_title": "How I'd Switch ML Jobs for a $50k Raise in 90 Days",
+        "recent_video_description": "\ud83c\udfaf Land Your Dream Data, ML or AI Job In 3 Months \u2014 https://go.hiredindata.com/cb947d41\n\nTIMESTAMPS\n0:00 Intro\n1:15 Positioning\n5:38 Getting interviews\n9:41 Acing interviews\n\nDISCLAIMERS & DISCLOSURES\n"
+      },
+      "audit": {
+        "influencer_name": "Egor Howell",
+        "channel_id": "UC9Tl0-lzeDPH4y7LcRwRSQA",
+        "status": "PASSED",
+        "passed": true,
+        "reasons": [
+          "Qualified micro-influencer: 73,200 followers, 0.07% ER, strong niche alignment."
+        ],
+        "follower_count": 73200,
+        "engagement_rate": 0.07,
+        "niche_relevance_score": 0.33
+      }
+    },
+    {
+      "profile": {
+        "channel_id": "UCza8Qod4N6OX1gF5U56JZnQ",
+        "name": "AW-TECHNOLOGIES",
+        "platform": "YouTube",
+        "profile_url": "https://www.youtube.com/@awcd",
+        "follower_count": 8030,
+        "engagement_rate": 0.06,
+        "niche": "Tech & AI Tools",
+        "content_themes": [
+          "AI & LLMs",
+          "Python & Coding"
+        ],
+        "contact_email": "Not Found",
+        "secondary_handles": "@awcd",
+        "website": null,
+        "audience_geography": "Global",
+        "audience_age": "18-34",
+        "audience_gender": "Mixed",
+        "recent_video_title": "Why asking ChatGPT to sound human still gets flagged 100% AI",
+        "recent_video_description": "I Tested Rephrasy AI Humanizer Against GPTZero \u2014 Live, No Edits\n\ud83d\udc49https://youtu.be/bLOQjqBhM60\n\nWhy asking ChatGPT to sound human still gets flagged by AI detectors. Learn why predictability is the rea"
+      },
+      "audit": {
+        "influencer_name": "AW-TECHNOLOGIES",
+        "channel_id": "UCza8Qod4N6OX1gF5U56JZnQ",
+        "status": "PASSED",
+        "passed": true,
+        "reasons": [
+          "Qualified micro-influencer: 8,030 followers, 0.06% ER, strong niche alignment."
+        ],
+        "follower_count": 8030,
+        "engagement_rate": 0.06,
+        "niche_relevance_score": 1.0
+      }
+    },
+    {
+      "profile": {
+        "channel_id": "UClYy-MQuDXPf3gI-bsLcuEw",
+        "name": "Tom Shaw",
+        "platform": "YouTube",
+        "profile_url": "https://www.youtube.com/@tom.developer",
+        "follower_count": 60600,
+        "engagement_rate": 0.17,
+        "niche": "Tech & AI Tools",
+        "content_themes": [
+          "AI & LLMs",
+          "Python & Coding"
+        ],
+        "contact_email": "Not Found",
+        "secondary_handles": "@tom.developer",
+        "website": null,
+        "audience_geography": "Global",
+        "audience_age": "18-34",
+        "audience_gender": "Mixed",
+        "recent_video_title": "How I\u2019m using Local AI",
+        "recent_video_description": "Here\u2019s how I\u2019m using local AI run by Ollama on my laptop!\n\nThis Microsoft Surface Ultra is capable of running some pretty powerful LLMs, and it means I\u2019m able to use coding agents locally to build my "
+      },
+      "audit": {
+        "influencer_name": "Tom Shaw",
+        "channel_id": "UClYy-MQuDXPf3gI-bsLcuEw",
+        "status": "PASSED",
+        "passed": true,
+        "reasons": [
+          "Qualified micro-influencer: 60,600 followers, 0.17% ER, strong niche alignment."
+        ],
+        "follower_count": 60600,
+        "engagement_rate": 0.17,
+        "niche_relevance_score": 0.67
+      }
+    },
+    {
+      "profile": {
+        "channel_id": "UC9kqXvkloWw2TwDtmvLWsMQ",
+        "name": "Sreemanti Dey",
+        "platform": "YouTube",
+        "profile_url": "https://www.youtube.com/@sreemantidey",
+        "follower_count": 34800,
+        "engagement_rate": 0.12,
+        "niche": "Tech & AI Tools",
+        "content_themes": [
+          "AI & LLMs",
+          "Python & Coding",
+          "Machine Learning"
+        ],
+        "contact_email": "Not Found",
+        "secondary_handles": "@sreemantidey",
+        "website": null,
+        "audience_geography": "Global",
+        "audience_age": "18-34",
+        "audience_gender": "Mixed",
+        "recent_video_title": "Neural networks and deep learning concepts explained in 60 seconds in simplest terms",
+        "recent_video_description": ""
+      },
+      "audit": {
+        "influencer_name": "Sreemanti Dey",
+        "channel_id": "UC9kqXvkloWw2TwDtmvLWsMQ",
+        "status": "PASSED",
+        "passed": true,
+        "reasons": [
+          "Qualified micro-influencer: 34,800 followers, 0.12% ER, strong niche alignment."
+        ],
+        "follower_count": 34800,
+        "engagement_rate": 0.12,
+        "niche_relevance_score": 1.0
+      }
+    },
+    {
+      "profile": {
+        "channel_id": "UCT_QjKWWJX40J1Rg61PAB_Q",
+        "name": "\ud83d\udd25 TOP Digital Products \ud83d\udd25",
+        "platform": "YouTube",
+        "profile_url": "https://www.youtube.com/@topdigitalproducts",
+        "follower_count": 33100,
+        "engagement_rate": 2.54,
+        "niche": "Tech & AI Tools",
+        "content_themes": [
+          "AI & LLMs",
+          "Python & Coding",
+          "Tech Reviews"
+        ],
+        "contact_email": "collab@ytranker.net",
+        "secondary_handles": "@topdigitalproducts",
+        "website": null,
+        "audience_geography": "Global",
+        "audience_age": "18-34",
+        "audience_gender": "Mixed",
+        "recent_video_title": "2026 Best AI Agent Video Editor (Plot Party Agentic Canvas Tutorial)",
+        "recent_video_description": "Project Link: https://linktr.ee/Plotparty\nAI Agent Video Editor tools are changing how creators produce cinematic videos, and Plot Party brings AI video generation, agentic workflows, and timeline edi"
+      },
+      "audit": {
+        "influencer_name": "\ud83d\udd25 TOP Digital Products \ud83d\udd25",
+        "channel_id": "UCT_QjKWWJX40J1Rg61PAB_Q",
+        "status": "PASSED",
+        "passed": true,
+        "reasons": [
+          "Qualified micro-influencer: 33,100 followers, 2.54% ER, strong niche alignment."
+        ],
+        "follower_count": 33100,
+        "engagement_rate": 2.54,
+        "niche_relevance_score": 1.0
+      }
+    },
+    {
+      "profile": {
+        "channel_id": "UCRj5UNPplA2rwP9wQs0pT_A",
+        "name": "Student page",
+        "platform": "YouTube",
+        "profile_url": "https://www.youtube.com/@studentpage781",
+        "follower_count": 29400,
+        "engagement_rate": 0.39,
+        "niche": "Tech & AI Tools",
+        "content_themes": [
+          "AI & LLMs"
+        ],
+        "contact_email": "studentpage080@gmail.com",
+        "secondary_handles": "@studentpage781",
+        "website": null,
+        "audience_geography": "Global",
+        "audience_age": "18-34",
+        "audience_gender": "Mixed",
+        "recent_video_title": "High Salary jobs after Computer Science \ud83d\udc69\u200d\ud83d\udcbb\ud83d\udcb0 #ytshorts #career",
+        "recent_video_description": ""
+      },
+      "audit": {
+        "influencer_name": "Student page",
+        "channel_id": "UCRj5UNPplA2rwP9wQs0pT_A",
+        "status": "PASSED",
+        "passed": true,
+        "reasons": [
+          "Qualified micro-influencer: 29,400 followers, 0.39% ER, strong niche alignment."
+        ],
+        "follower_count": 29400,
+        "engagement_rate": 0.39,
+        "niche_relevance_score": 0.33
+      }
+    },
+    {
+      "profile": {
+        "channel_id": "UC0hqDpZI6KSPwPdH9VK5bOw",
+        "name": "Business Training Media",
+        "platform": "YouTube",
+        "profile_url": "https://www.youtube.com/@businesstrainingmedia",
+        "follower_count": 15500,
+        "engagement_rate": 0.6,
+        "niche": "Tech & AI Tools",
+        "content_themes": [
+          "AI & LLMs"
+        ],
+        "contact_email": "Not Found",
+        "secondary_handles": "@businesstrainingmedia",
+        "website": null,
+        "audience_geography": "Global",
+        "audience_age": "18-34",
+        "audience_gender": "Mixed",
+        "recent_video_title": "5 Best Online Forklift Safety Training Courses for Employees",
+        "recent_video_description": "Explore five online forklift safety training courses designed to help employees understand safe forklift operation, equipment inspections, load stability, rough-terrain hazards, and pedestrian safety."
+      },
+      "audit": {
+        "influencer_name": "Business Training Media",
+        "channel_id": "UC0hqDpZI6KSPwPdH9VK5bOw",
+        "status": "PASSED",
+        "passed": true,
+        "reasons": [
+          "Qualified micro-influencer: 15,500 followers, 0.60% ER, strong niche alignment."
+        ],
+        "follower_count": 15500,
+        "engagement_rate": 0.6,
+        "niche_relevance_score": 0.33
+      }
+    },
+    {
+      "profile": {
+        "channel_id": "UCb8ovQyBpUBITyTOH75CluA",
+        "name": "DecodeAI with Analytics Vidhya",
+        "platform": "YouTube",
+        "profile_url": "https://www.youtube.com/@decodeaiwithanalyticsvidhya",
+        "follower_count": 87400,
+        "engagement_rate": 0.12,
+        "niche": "Tech & AI Tools",
+        "content_themes": [
+          "AI & LLMs",
+          "Python & Coding",
+          "Machine Learning"
+        ],
+        "contact_email": "Not Found",
+        "secondary_handles": "@decodeaiwithanalyticsvidhya",
+        "website": null,
+        "audience_geography": "Global",
+        "audience_age": "18-34",
+        "audience_gender": "Mixed",
+        "recent_video_title": "ChatGPT \u092e\u0947\u0902 \u0906\u0908 \u092c\u0921\u093c\u0940 \u0905\u092a\u0921\u0947\u091f #OpenAI #Update",
+        "recent_video_description": "Discover how ChatGPT Images 2.0 improves text rendering, multilingual visuals, and infographic creation with smarter image generation."
+      },
+      "audit": {
+        "influencer_name": "DecodeAI with Analytics Vidhya",
+        "channel_id": "UCb8ovQyBpUBITyTOH75CluA",
+        "status": "PASSED",
+        "passed": true,
+        "reasons": [
+          "Qualified micro-influencer: 87,400 followers, 0.12% ER, strong niche alignment."
+        ],
+        "follower_count": 87400,
+        "engagement_rate": 0.12,
+        "niche_relevance_score": 1.0
+      }
+    },
+    {
+      "profile": {
+        "channel_id": "UCa9FBCj_ZcKU6OBtLsQJXpg",
+        "name": "NextWork",
+        "platform": "YouTube",
+        "profile_url": "https://www.youtube.com/@itsnextwork",
+        "follower_count": 74400,
+        "engagement_rate": 0.07,
+        "niche": "Tech & AI Tools",
+        "content_themes": [
+          "AI & LLMs"
+        ],
+        "contact_email": "Not Found",
+        "secondary_handles": "@itsnextwork",
+        "website": null,
+        "audience_geography": "Global",
+        "audience_age": "18-34",
+        "audience_gender": "Mixed",
+        "recent_video_title": "Automating Google Workspace with Claude (Beginner Guide)",
+        "recent_video_description": "Project link: https://nextwork.ai/projects/f8df67b2-1bf2-4c8b-80cf-1e87420f44ce\n\nLearn how to connect Gmail, Google Calendar, Drive, Docs, and Sheets with Claude AI to automate your workflow.\n\nJoin th"
+      },
+      "audit": {
+        "influencer_name": "NextWork",
+        "channel_id": "UCa9FBCj_ZcKU6OBtLsQJXpg",
+        "status": "PASSED",
+        "passed": true,
+        "reasons": [
+          "Qualified micro-influencer: 74,400 followers, 0.07% ER, strong niche alignment."
+        ],
+        "follower_count": 74400,
+        "engagement_rate": 0.07,
+        "niche_relevance_score": 0.33
+      }
+    },
+    {
+      "profile": {
+        "channel_id": "UCR9aFwQQm7cDzrHMOPsAvaA",
+        "name": "Pynade",
+        "platform": "YouTube",
+        "profile_url": "https://www.youtube.com/@pynade",
+        "follower_count": 10000,
+        "engagement_rate": 0.16,
+        "niche": "Tech & AI Tools",
+        "content_themes": [
+          "AI & LLMs",
+          "Python & Coding",
+          "DevOps & Cloud"
+        ],
+        "contact_email": "Not Found",
+        "secondary_handles": "@pynade",
+        "website": null,
+        "audience_geography": "Global",
+        "audience_age": "18-34",
+        "audience_gender": "Mixed",
+        "recent_video_title": "AWS Cheat Sheet: What You Actually Need to Know #aws #cloud #programming #tutorial",
+        "recent_video_description": "AWS Cheat Sheet: What You Actually Need to Know \n\nMastering core AWS services is the fastest way to stop feeling overwhelmed by cloud infrastructure.\n\nAWS can feel intimidating with over 200 services "
+      },
+      "audit": {
+        "influencer_name": "Pynade",
+        "channel_id": "UCR9aFwQQm7cDzrHMOPsAvaA",
+        "status": "PASSED",
+        "passed": true,
+        "reasons": [
+          "Qualified micro-influencer: 10,000 followers, 0.16% ER, strong niche alignment."
+        ],
+        "follower_count": 10000,
+        "engagement_rate": 0.16,
+        "niche_relevance_score": 0.67
+      }
+    },
+    {
+      "profile": {
+        "channel_id": "UCvDqylEzCZJHNea6k1XMkQw",
+        "name": "Uma Abu",
+        "platform": "YouTube",
+        "profile_url": "https://www.youtube.com/@umacodes",
+        "follower_count": 31800,
+        "engagement_rate": 0.18,
+        "niche": "Tech & AI Tools",
+        "content_themes": [
+          "Python & Coding"
+        ],
+        "contact_email": "umacodes@kernelmanagement.com",
+        "secondary_handles": "@umacodes",
+        "website": null,
+        "audience_geography": "Global",
+        "audience_age": "18-34",
+        "audience_gender": "Mixed",
+        "recent_video_title": "The Hidden Complexity of Caching Data In Software Systems",
+        "recent_video_description": "Join The CodeRoom: https://thecoderoom.carrd.co/\nRecommended software development resource: https://scrimba.com/home?via=umacodes\n\nCaching Explained for Software Engineers - Caching 101: Client vs Ser"
+      },
+      "audit": {
+        "influencer_name": "Uma Abu",
+        "channel_id": "UCvDqylEzCZJHNea6k1XMkQw",
+        "status": "PASSED",
+        "passed": true,
+        "reasons": [
+          "Qualified micro-influencer: 31,800 followers, 0.18% ER, strong niche alignment."
+        ],
+        "follower_count": 31800,
+        "engagement_rate": 0.18,
+        "niche_relevance_score": 0.33
+      }
+    },
+    {
+      "profile": {
+        "channel_id": "UCZ-qVFZubQ-pVHc9SQ9HjzQ",
+        "name": "Codelopment",
+        "platform": "YouTube",
+        "profile_url": "https://www.youtube.com/@codelopment",
+        "follower_count": 27000,
+        "engagement_rate": 0.05,
+        "niche": "Tech & AI Tools",
+        "content_themes": [
+          "AI & LLMs",
+          "Python & Coding"
+        ],
+        "contact_email": "codelopmentxllg@gmail.com",
+        "secondary_handles": "@codelopment",
+        "website": null,
+        "audience_geography": "Global",
+        "audience_age": "18-34",
+        "audience_gender": "Mixed",
+        "recent_video_title": "5 Projects that teach you more than your degree. #coding #programming #projects #degree #java",
+        "recent_video_description": ""
+      },
+      "audit": {
+        "influencer_name": "Codelopment",
+        "channel_id": "UCZ-qVFZubQ-pVHc9SQ9HjzQ",
+        "status": "PASSED",
+        "passed": true,
+        "reasons": [
+          "Qualified micro-influencer: 27,000 followers, 0.05% ER, strong niche alignment."
+        ],
+        "follower_count": 27000,
+        "engagement_rate": 0.05,
+        "niche_relevance_score": 1.0
+      }
+    },
+    {
+      "profile": {
+        "channel_id": "UCJghhFcuEmSUHkfjQcz--QQ",
+        "name": "Code of the Future",
+        "platform": "YouTube",
+        "profile_url": "https://www.youtube.com/@codeofthefuture",
+        "follower_count": 25700,
+        "engagement_rate": 0.43,
+        "niche": "Tech & AI Tools",
+        "content_themes": [
+          "Python & Coding"
+        ],
+        "contact_email": "Not Found",
+        "secondary_handles": "@codeofthefuture",
+        "website": null,
+        "audience_geography": "Global",
+        "audience_age": "18-34",
+        "audience_gender": "Mixed",
+        "recent_video_title": "Lorenz Attractor Tutorial: Chaos Theory Visualization with Python (Google Colab)",
+        "recent_video_description": "Learn how to simulate, plot, and animate the Lorenz Attractor using Python in this beginner-friendly coding tutorial! We\u2019ll walk through the mathematics behind chaotic systems and implement the full s"
+      },
+      "audit": {
+        "influencer_name": "Code of the Future",
+        "channel_id": "UCJghhFcuEmSUHkfjQcz--QQ",
+        "status": "PASSED",
+        "passed": true,
+        "reasons": [
+          "Qualified micro-influencer: 25,700 followers, 0.43% ER, strong niche alignment."
+        ],
+        "follower_count": 25700,
+        "engagement_rate": 0.43,
+        "niche_relevance_score": 0.67
+      }
+    },
+    {
+      "profile": {
+        "channel_id": "UCEihg8EpedxZKQ_Gm1XVedg",
+        "name": "Manware",
+        "platform": "YouTube",
+        "profile_url": "https://www.youtube.com/@iammanware",
+        "follower_count": 68600,
+        "engagement_rate": 2.46,
+        "niche": "Tech & AI Tools",
+        "content_themes": [
+          "AI & LLMs",
+          "Python & Coding"
+        ],
+        "contact_email": "Not Found",
+        "secondary_handles": "@iammanware",
+        "website": null,
+        "audience_geography": "Global",
+        "audience_age": "18-34",
+        "audience_gender": "Mixed",
+        "recent_video_title": "I Built The Same App in 9 AI Agents",
+        "recent_video_description": "\ud83d\udc49Try Arcade for free: https://arcade.dev.plug.dev/na25cir (no card required)\n\n\ud83d\udd35 wanna say hi? Join our DISCORD: https://discord.gg/QHskavXhaA\n\n\ud83e\udd16GitHub repo: https://github.com/i-am-manware/Agentathon-"
+      },
+      "audit": {
+        "influencer_name": "Manware",
+        "channel_id": "UCEihg8EpedxZKQ_Gm1XVedg",
+        "status": "PASSED",
+        "passed": true,
+        "reasons": [
+          "Qualified micro-influencer: 68,600 followers, 2.46% ER, strong niche alignment."
+        ],
+        "follower_count": 68600,
+        "engagement_rate": 2.46,
+        "niche_relevance_score": 0.67
+      }
+    },
+    {
+      "profile": {
+        "channel_id": "UClHR-LUF_3ls9GOVl1izxBw",
+        "name": "The Business Lens",
+        "platform": "YouTube",
+        "profile_url": "https://www.youtube.com/@azhartechnical641",
+        "follower_count": 16200,
+        "engagement_rate": 5.05,
+        "niche": "Tech & AI Tools",
+        "content_themes": [
+          "AI & LLMs"
+        ],
+        "contact_email": "Not Found",
+        "secondary_handles": "@azhartechnical641",
+        "website": null,
+        "audience_geography": "Global",
+        "audience_age": "18-34",
+        "audience_gender": "Mixed",
+        "recent_video_title": "AI Video Generator Platform (APOB AI Tutorial 2026)",
+        "recent_video_description": "AI Video Generator Platform tutorial: Learn how to create your own AI influencer, generate cinematic AI videos, and produce short-form content using APOB AI.\nProject Link: https://linktr.ee/apobai\n___"
+      },
+      "audit": {
+        "influencer_name": "The Business Lens",
+        "channel_id": "UClHR-LUF_3ls9GOVl1izxBw",
+        "status": "PASSED",
+        "passed": true,
+        "reasons": [
+          "Qualified micro-influencer: 16,200 followers, 5.05% ER, strong niche alignment."
+        ],
+        "follower_count": 16200,
+        "engagement_rate": 5.05,
+        "niche_relevance_score": 0.33
+      }
+    }
+  ],
+  "rejected_influencers": [
+    {
+      "profile": {
+        "channel_id": "UCJBNKX0L_WxxkJ89Vs136wQ",
+        "name": "Progma Engineer",
+        "platform": "YouTube",
+        "profile_url": "https://www.youtube.com/@progmaengineer",
+        "follower_count": 158,
+        "engagement_rate": 4.43,
+        "niche": "Tech & AI Tools",
+        "content_themes": [
+          "AI & LLMs",
+          "Python & Coding",
+          "Machine Learning"
+        ],
+        "contact_email": "Not Found",
+        "secondary_handles": "@progmaengineer",
+        "website": null,
+        "audience_geography": "Global",
+        "audience_age": "18-34",
+        "audience_gender": "Mixed",
+        "recent_video_title": "python ai video creation code",
+        "recent_video_description": "this is how to create ai short video using python code. This python program is for learning the ai videos creation.\n#python #aivideo #programming #ai"
+      },
+      "audit": {
+        "influencer_name": "Progma Engineer",
+        "channel_id": "UCJBNKX0L_WxxkJ89Vs136wQ",
+        "status": "FAILED",
+        "passed": false,
+        "reasons": [
+          "Followers (158) below micro-influencer minimum threshold (5,000)."
+        ],
+        "follower_count": 158,
+        "engagement_rate": 4.43,
+        "niche_relevance_score": 1.0
+      }
+    },
+    {
+      "profile": {
+        "channel_id": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+        "name": "Programming with Mosh",
+        "platform": "YouTube",
+        "profile_url": "https://www.youtube.com/@programmingwithmosh",
+        "follower_count": 5180000,
+        "engagement_rate": 0.09,
+        "niche": "Tech & AI Tools",
+        "content_themes": [
+          "AI & LLMs",
+          "Python & Coding"
+        ],
+        "contact_email": "partners@codewithmosh.com",
+        "secondary_handles": "@programmingwithmosh",
+        "website": null,
+        "audience_geography": "Global",
+        "audience_age": "18-34",
+        "audience_gender": "Mixed",
+        "recent_video_title": "Claude Code Tutorial Dropped #claude #claudecode",
+        "recent_video_description": "\u2764\ufe0f Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA/join\n\n\u270b Stay connected:\n- Full Courses: https://codewithmosh.com\n- Twitter: https://twitter.com/mo"
+      },
+      "audit": {
+        "influencer_name": "Programming with Mosh",
+        "channel_id": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+        "status": "FAILED",
+        "passed": false,
+        "reasons": [
+          "Followers (5,180,000) exceed micro-influencer ceiling (100,000 - Macro tier)."
+        ],
+        "follower_count": 5180000,
+        "engagement_rate": 0.09,
+        "niche_relevance_score": 0.67
+      }
+    },
+    {
+      "profile": {
+        "channel_id": "UCcJQ96WlEhJ0Ve0SLmU310Q",
+        "name": "Internet Made Coder",
+        "platform": "YouTube",
+        "profile_url": "https://www.youtube.com/@internetmadecoder",
+        "follower_count": 362000,
+        "engagement_rate": 0.01,
+        "niche": "Tech & AI Tools",
+        "content_themes": [
+          "AI & LLMs",
+          "Python & Coding"
+        ],
+        "contact_email": "tuomas@internetmadecoder.com",
+        "secondary_handles": "@internetmadecoder",
+        "website": null,
+        "audience_geography": "Global",
+        "audience_age": "18-34",
+        "audience_gender": "Mixed",
+        "recent_video_title": "I QUIT My Job as a Developer\u20263 Years Later, Do I Regret It?",
+        "recent_video_description": "\ud83d\udc49 Build in-app chat with Nexconn (Free up to 10,000 MAU):\nhttps://www.nexconn.ai/free-chat-api?utm_source=youtube_imc\n\nIt has been 3.5 years since I quit my job as a software developer to work for mys"
+      },
+      "audit": {
+        "influencer_name": "Internet Made Coder",
+        "channel_id": "UCcJQ96WlEhJ0Ve0SLmU310Q",
+        "status": "FAILED",
+        "passed": false,
+        "reasons": [
+          "Followers (362,000) exceed micro-influencer ceiling (100,000 - Macro tier).",
+          "Engagement rate (0.01%) below active threshold (0.05%)."
+        ],
+        "follower_count": 362000,
+        "engagement_rate": 0.01,
+        "niche_relevance_score": 1.0
+      }
+    },
+    {
+      "profile": {
+        "channel_id": "UCEPBebrT6yUxgj5ZM7rnjdw",
+        "name": "CheatSheets",
+        "platform": "YouTube",
+        "profile_url": "https://www.youtube.com/@cheatsheets",
+        "follower_count": 392000,
+        "engagement_rate": 0.01,
+        "niche": "Tech & AI Tools",
+        "content_themes": [
+          "AI & LLMs"
+        ],
+        "contact_email": "Not Found",
+        "secondary_handles": "@cheatsheets",
+        "website": null,
+        "audience_geography": "Global",
+        "audience_age": "18-34",
+        "audience_gender": "Mixed",
+        "recent_video_title": "4 columns, one formula, zero copy-pasting #excel",
+        "recent_video_description": "CHOOSECOLS pulls exactly the columns you want \u2014 in whatever order you want them.\n\nI dare you to send this to your work buddy who still copy-pastes columns one by one \ud83d\udc47\n\n#excel #exceltips #microsoftexc"
+      },
+      "audit": {
+        "influencer_name": "CheatSheets",
+        "channel_id": "UCEPBebrT6yUxgj5ZM7rnjdw",
+        "status": "FAILED",
+        "passed": false,
+        "reasons": [
+          "Followers (392,000) exceed micro-influencer ceiling (100,000 - Macro tier).",
+          "Engagement rate (0.01%) below active threshold (0.05%)."
+        ],
+        "follower_count": 392000,
+        "engagement_rate": 0.01,
+        "niche_relevance_score": 0.33
+      }
+    },
+    {
+      "profile": {
+        "channel_id": "UCiGWNa6QK6CiKPvv5-YPv8g",
+        "name": "Sabrina Ramonov \ud83c\udf44",
+        "platform": "YouTube",
+        "profile_url": "https://www.youtube.com/@sabrina_ramonov",
+        "follower_count": 449000,
+        "engagement_rate": 0.09,
+        "niche": "Tech & AI Tools",
+        "content_themes": [
+          "AI & LLMs"
+        ],
+        "contact_email": "Not Found",
+        "secondary_handles": "@sabrina_ramonov",
+        "website": null,
+        "audience_geography": "Global",
+        "audience_age": "18-34",
+        "audience_gender": "Mixed",
+        "recent_video_title": "The 5 Stages of AI Fluency",
+        "recent_video_description": "How do you move through 5 stages of AI fluency, from search to agents?\n\nHere are the 5 Stages of AI Fluency:\n\n(based on my teaching millions of people)\n\n1. Search\nYou use AI like a faster Google searc"
+      },
+      "audit": {
+        "influencer_name": "Sabrina Ramonov \ud83c\udf44",
+        "channel_id": "UCiGWNa6QK6CiKPvv5-YPv8g",
+        "status": "FAILED",
+        "passed": false,
+        "reasons": [
+          "Followers (449,000) exceed micro-influencer ceiling (100,000 - Macro tier)."
+        ],
+        "follower_count": 449000,
+        "engagement_rate": 0.09,
+        "niche_relevance_score": 0.33
+      }
+    },
+    {
+      "profile": {
+        "channel_id": "UCgDqL4yzXb4BflimZaxL4Vg",
+        "name": "Andrew Ethan Zeng",
+        "platform": "YouTube",
+        "profile_url": "https://www.youtube.com/@andrewethanzeng",
+        "follower_count": 451000,
+        "engagement_rate": 0.43,
+        "niche": "Tech & AI Tools",
+        "content_themes": [
+          "Tech Reviews"
+        ],
+        "contact_email": "team@aezmedia.com",
+        "secondary_handles": "@andrewethanzeng",
+        "website": null,
+        "audience_geography": "Global",
+        "audience_age": "18-34",
+        "audience_gender": "Mixed",
+        "recent_video_title": "Unboxing the MacBook PROLED XDR in Silver \ud83d\udc46",
+        "recent_video_description": "The first MacBook with a touchscreen \ud83d\udc46\n\nUnboxing the new MacBook Pro PROLED XDR in Silver. \n\n#macbookpro #unboxing #proled #apple #shorts"
+      },
+      "audit": {
+        "influencer_name": "Andrew Ethan Zeng",
+        "channel_id": "UCgDqL4yzXb4BflimZaxL4Vg",
+        "status": "FAILED",
+        "passed": false,
+        "reasons": [
+          "Followers (451,000) exceed micro-influencer ceiling (100,000 - Macro tier)."
+        ],
+        "follower_count": 451000,
+        "engagement_rate": 0.43,
+        "niche_relevance_score": 0.33
+      }
+    },
+    {
+      "profile": {
+        "channel_id": "UCaNk22cLid93kifuVbVapcQ",
+        "name": "Parker Prompts",
+        "platform": "YouTube",
+        "profile_url": "https://www.youtube.com/@parkerprompts",
+        "follower_count": 135000,
+        "engagement_rate": 0.01,
+        "niche": "Tech & AI Tools",
+        "content_themes": [
+          "AI & LLMs"
+        ],
+        "contact_email": "Not Found",
+        "secondary_handles": "@parkerprompts",
+        "website": null,
+        "audience_geography": "Global",
+        "audience_age": "18-34",
+        "audience_gender": "Mixed",
+        "recent_video_title": "Grok Bot Tutorial for Beginners: How to Set Up Your First AI Agent",
+        "recent_video_description": "Go from ABSOLUTE ZERO to using AI like the people who do this for a living\ud83d\udc47\nhttps://www.skool.com/ai-fluency\n\nIn this video, I show how to set up Grok Bot and create your own team of AI agents that ca"
+      },
+      "audit": {
+        "influencer_name": "Parker Prompts",
+        "channel_id": "UCaNk22cLid93kifuVbVapcQ",
+        "status": "FAILED",
+        "passed": false,
+        "reasons": [
+          "Followers (135,000) exceed micro-influencer ceiling (100,000 - Macro tier).",
+          "Engagement rate (0.01%) below active threshold (0.05%)."
+        ],
+        "follower_count": 135000,
+        "engagement_rate": 0.01,
+        "niche_relevance_score": 0.33
+      }
+    },
+    {
+      "profile": {
+        "channel_id": "UCLj4Mj-bbQFlpUAl1C4OC2w",
+        "name": "data science Consultancy",
+        "platform": "YouTube",
+        "profile_url": "https://www.youtube.com/@datasciencebrain",
+        "follower_count": 2030,
+        "engagement_rate": 0.66,
+        "niche": "Tech & AI Tools",
+        "content_themes": [
+          "AI & LLMs",
+          "Python & Coding",
+          "Machine Learning"
+        ],
+        "contact_email": "Not Found",
+        "secondary_handles": "@datasciencebrain",
+        "website": null,
+        "audience_geography": "Global",
+        "audience_age": "18-34",
+        "audience_gender": "Mixed",
+        "recent_video_title": "complexity visualization #coding #pythonanddjangofullstackwebdeveloper #programming #ai #codingbat",
+        "recent_video_description": ""
+      },
+      "audit": {
+        "influencer_name": "data science Consultancy",
+        "channel_id": "UCLj4Mj-bbQFlpUAl1C4OC2w",
+        "status": "FAILED",
+        "passed": false,
+        "reasons": [
+          "Followers (2,030) below micro-influencer minimum threshold (5,000)."
+        ],
+        "follower_count": 2030,
+        "engagement_rate": 0.66,
+        "niche_relevance_score": 1.0
+      }
+    },
+    {
+      "profile": {
+        "channel_id": "UCqWpxtC3ZJzjPAscr0r1CQg",
+        "name": "The Coder Abhi",
+        "platform": "YouTube",
+        "profile_url": "https://www.youtube.com/@thecoderabhi1",
+        "follower_count": 1020,
+        "engagement_rate": 0.16,
+        "niche": "Tech & AI Tools",
+        "content_themes": [
+          "AI & LLMs",
+          "Python & Coding"
+        ],
+        "contact_email": "Not Found",
+        "secondary_handles": "@thecoderabhi1",
+        "website": null,
+        "audience_geography": "Global",
+        "audience_age": "18-34",
+        "audience_gender": "Mixed",
+        "recent_video_title": "#1 Matplotlib Sikho Series in Python | Data Visualization for Beginners | Introduction",
+        "recent_video_description": "#1 Matplotlib Sikho Series in Python | Data Visualization for Beginners | Introduction\n\n\u0915\u094d\u092f\u093e \u0906\u092a Python \u0938\u0947 Data Visualization \u0938\u0940\u0916\u0928\u093e \u091a\u093e\u0939\u0924\u0947 \u0939\u0948\u0902? \u0924\u094b \u0939\u092e\u093e\u0930\u0940 \u0928\u0908 Matplotlib \u0938\u0940\u0916\u094b Series \u092e\u0947\u0902 \u0906\u092a\u0915\u093e \u0938\u094d\u0935\u093e\u0917\u0924 \u0939\u0948!\n\n\u0907\u0938"
+      },
+      "audit": {
+        "influencer_name": "The Coder Abhi",
+        "channel_id": "UCqWpxtC3ZJzjPAscr0r1CQg",
+        "status": "FAILED",
+        "passed": false,
+        "reasons": [
+          "Followers (1,020) below micro-influencer minimum threshold (5,000)."
+        ],
+        "follower_count": 1020,
+        "engagement_rate": 0.16,
+        "niche_relevance_score": 1.0
+      }
+    },
+    {
+      "profile": {
+        "channel_id": "UCFdYDksnnzckY1cy3oe1aFA",
+        "name": "Zeeshan Shaikh",
+        "platform": "YouTube",
+        "profile_url": "https://www.youtube.com/@zeeshanshaikh",
+        "follower_count": 430000,
+        "engagement_rate": 0.05,
+        "niche": "Tech & AI Tools",
+        "content_themes": [
+          "AI & LLMs"
+        ],
+        "contact_email": "Not Found",
+        "secondary_handles": "@zeeshanshaikh",
+        "website": null,
+        "audience_geography": "Global",
+        "audience_age": "18-34",
+        "audience_gender": "Mixed",
+        "recent_video_title": "last day 21 of 21 days challenge live :(",
+        "recent_video_description": "join summaryboard + 21  days challenge - https://go.summaryboard.in/12ap\n\nfor future challenges join summaryboard  - you will get details on mail or whatsapp \n\nios app link - https://apps.apple.com/in"
+      },
+      "audit": {
+        "influencer_name": "Zeeshan Shaikh",
+        "channel_id": "UCFdYDksnnzckY1cy3oe1aFA",
+        "status": "FAILED",
+        "passed": false,
+        "reasons": [
+          "Followers (430,000) exceed micro-influencer ceiling (100,000 - Macro tier)."
+        ],
+        "follower_count": 430000,
+        "engagement_rate": 0.05,
+        "niche_relevance_score": 0.33
+      }
+    },
+    {
+      "profile": {
+        "channel_id": "UC7zZ2-Q_oxbUaoMVL0z51wg",
+        "name": "Sajjaad Khader",
+        "platform": "YouTube",
+        "profile_url": "https://www.youtube.com/@sajjaadkhader",
+        "follower_count": 364000,
+        "engagement_rate": 0.23,
+        "niche": "Tech & AI Tools",
+        "content_themes": [
+          "Python & Coding"
+        ],
+        "contact_email": "Not Found",
+        "secondary_handles": "@sajjaadkhader",
+        "website": null,
+        "audience_geography": "Global",
+        "audience_age": "18-34",
+        "audience_gender": "Mixed",
+        "recent_video_title": "The only way to get hired in CS \ud83e\udd2b",
+        "recent_video_description": "The only way to get hired in CS \ud83e\udd2b #compsci #tech"
+      },
+      "audit": {
+        "influencer_name": "Sajjaad Khader",
+        "channel_id": "UC7zZ2-Q_oxbUaoMVL0z51wg",
+        "status": "FAILED",
+        "passed": false,
+        "reasons": [
+          "Followers (364,000) exceed micro-influencer ceiling (100,000 - Macro tier)."
+        ],
+        "follower_count": 364000,
+        "engagement_rate": 0.23,
+        "niche_relevance_score": 0.33
+      }
+    },
+    {
+      "profile": {
+        "channel_id": "UCfJT_eYDTmDE-ovKaxVE1ig",
+        "name": "Kevin Stratvert",
+        "platform": "YouTube",
+        "profile_url": "https://www.youtube.com/@kevinstratvert",
+        "follower_count": 4490000,
+        "engagement_rate": 0.01,
+        "niche": "Tech & AI Tools",
+        "content_themes": [
+          "AI & LLMs",
+          "Python & Coding",
+          "Automation"
+        ],
+        "contact_email": "Not Found",
+        "secondary_handles": "@kevinstratvert",
+        "website": null,
+        "audience_geography": "Global",
+        "audience_age": "18-34",
+        "audience_gender": "Mixed",
+        "recent_video_title": "How to Use Claude Code for FREE with Ollama",
+        "recent_video_description": "Learn how to use Claude Code for free with Ollama and a local AI model running on your own computer. In this step-by-step Windows tutorial, we'll install both tools, adjust Ollama's context length, co"
+      },
+      "audit": {
+        "influencer_name": "Kevin Stratvert",
+        "channel_id": "UCfJT_eYDTmDE-ovKaxVE1ig",
+        "status": "FAILED",
+        "passed": false,
+        "reasons": [
+          "Followers (4,490,000) exceed micro-influencer ceiling (100,000 - Macro tier).",
+          "Engagement rate (0.01%) below active threshold (0.05%)."
+        ],
+        "follower_count": 4490000,
+        "engagement_rate": 0.01,
+        "niche_relevance_score": 1.0
+      }
+    },
+    {
+      "profile": {
+        "channel_id": "UCObs0kLIrDjX2LLSybqNaEA",
+        "name": "Great Learning",
+        "platform": "YouTube",
+        "profile_url": "https://www.youtube.com/@greatlearning",
+        "follower_count": 993000,
+        "engagement_rate": 0.0,
+        "niche": "Tech & AI Tools",
+        "content_themes": [
+          "AI & LLMs",
+          "Machine Learning"
+        ],
+        "contact_email": "Not Found",
+        "secondary_handles": "@greatlearning",
+        "website": null,
+        "audience_geography": "Global",
+        "audience_age": "18-34",
+        "audience_gender": "Mixed",
+        "recent_video_title": "How Online Education Helps Professionals Adapt to a Fast Changing World",
+        "recent_video_description": "As the pace of technological change accelerates, continuous learning has become essential for working professionals. Prof. Munther Dahleh, Founding Director of the MIT Institute for Data, Systems, and"
+      },
+      "audit": {
+        "influencer_name": "Great Learning",
+        "channel_id": "UCObs0kLIrDjX2LLSybqNaEA",
+        "status": "FAILED",
+        "passed": false,
+        "reasons": [
+          "Followers (993,000) exceed micro-influencer ceiling (100,000 - Macro tier).",
+          "Engagement rate (0.00%) below active threshold (0.05%)."
+        ],
+        "follower_count": 993000,
+        "engagement_rate": 0.0,
+        "niche_relevance_score": 0.67
+      }
+    },
+    {
+      "profile": {
+        "channel_id": "UCwr-evhuzGZgDFrq_1pLt_A",
+        "name": "Error Makes Clever",
+        "platform": "YouTube",
+        "profile_url": "https://www.youtube.com/@errormakesclever",
+        "follower_count": 1280000,
+        "engagement_rate": 0.04,
+        "niche": "Tech & AI Tools",
+        "content_themes": [
+          "AI & LLMs",
+          "Python & Coding"
+        ],
+        "contact_email": "Not Found",
+        "secondary_handles": "@errormakesclever",
+        "website": null,
+        "audience_geography": "Global",
+        "audience_age": "18-34",
+        "audience_gender": "Mixed",
+        "recent_video_title": "Diwali Bonus vs New Skills: A Double Bonus for Your Career! | EMC",
+        "recent_video_description": "Make your skills shine brighter this Diwali. Learn something new and give your career a boost.\n\nHappy Diwali from Error Makes Clever!\n\n#Diwali #DiwaliCelebration #LearnNewSkills #SkillDevelopment #Car"
+      },
+      "audit": {
+        "influencer_name": "Error Makes Clever",
+        "channel_id": "UCwr-evhuzGZgDFrq_1pLt_A",
+        "status": "FAILED",
+        "passed": false,
+        "reasons": [
+          "Followers (1,280,000) exceed micro-influencer ceiling (100,000 - Macro tier).",
+          "Engagement rate (0.04%) below active threshold (0.05%)."
+        ],
+        "follower_count": 1280000,
+        "engagement_rate": 0.04,
+        "niche_relevance_score": 0.67
+      }
+    },
+    {
+      "profile": {
+        "channel_id": "UC-DN_3LKlMTrouRNa9X0siQ",
+        "name": "Dev G",
+        "platform": "YouTube",
+        "profile_url": "https://www.youtube.com/@gptlearninghub",
+        "follower_count": 35900,
+        "engagement_rate": 0.04,
+        "niche": "Tech & AI Tools",
+        "content_themes": [
+          "AI & LLMs"
+        ],
+        "contact_email": "Not Found",
+        "secondary_handles": "@gptlearninghub",
+        "website": null,
+        "audience_geography": "Global",
+        "audience_age": "18-34",
+        "audience_gender": "Mixed",
+        "recent_video_title": "Land An AI ML Job In 180 Days (Or Your Money Back)",
+        "recent_video_description": "Land Your Dream Offer: https://gptlearninghub.ai/mentorship?website=vsl_april"
+      },
+      "audit": {
+        "influencer_name": "Dev G",
+        "channel_id": "UC-DN_3LKlMTrouRNa9X0siQ",
+        "status": "FAILED",
+        "passed": false,
+        "reasons": [
+          "Engagement rate (0.04%) below active threshold (0.05%)."
+        ],
+        "follower_count": 35900,
+        "engagement_rate": 0.04,
+        "niche_relevance_score": 0.33
+      }
+    },
+    {
+      "profile": {
+        "channel_id": "UCzd4ZN716evEjtbJERBMTfg",
+        "name": "Aishwarya Srinivasan",
+        "platform": "YouTube",
+        "profile_url": "https://www.youtube.com/@aishwaryasrinivasan",
+        "follower_count": 192000,
+        "engagement_rate": 0.34,
+        "niche": "Tech & AI Tools",
+        "content_themes": [
+          "AI & LLMs",
+          "Python & Coding",
+          "Machine Learning"
+        ],
+        "contact_email": "Not Found",
+        "secondary_handles": "@aishwaryasrinivasan",
+        "website": null,
+        "audience_geography": "Global",
+        "audience_age": "18-34",
+        "audience_gender": "Mixed",
+        "recent_video_title": "55 days left in 2026 to prepare for AI jobs in 2027",
+        "recent_video_description": "https://drive.google.com/file/d/1gBLuRf3_d-NL_jJcEtz8J4Japi6Idr6n/view"
+      },
+      "audit": {
+        "influencer_name": "Aishwarya Srinivasan",
+        "channel_id": "UCzd4ZN716evEjtbJERBMTfg",
+        "status": "FAILED",
+        "passed": false,
+        "reasons": [
+          "Followers (192,000) exceed micro-influencer ceiling (100,000 - Macro tier)."
+        ],
+        "follower_count": 192000,
+        "engagement_rate": 0.34,
+        "niche_relevance_score": 1.0
+      }
+    },
+    {
+      "profile": {
+        "channel_id": "UCfQk5qGOEO5cPPDFlQe2lFQ",
+        "name": "Your Average Tech Bro",
+        "platform": "YouTube",
+        "profile_url": "https://www.youtube.com/@youraveragetechbro",
+        "follower_count": 209000,
+        "engagement_rate": 0.14,
+        "niche": "Tech & AI Tools",
+        "content_themes": [
+          "AI & LLMs",
+          "Python & Coding"
+        ],
+        "contact_email": "Not Found",
+        "secondary_handles": "@youraveragetechbro",
+        "website": null,
+        "audience_geography": "Global",
+        "audience_age": "18-34",
+        "audience_gender": "Mixed",
+        "recent_video_title": "My AI control center for coding agents: MX Keypad  @logitech",
+        "recent_video_description": "Check Out Yorby, the social media marketing tool for startups: https://www.yorby.ai?utm_source=yatb-yt\n\nWant to work with me 1:1? Book some time with me at https://www.youraveragetechbro.com\n\nCheck ou"
+      },
+      "audit": {
+        "influencer_name": "Your Average Tech Bro",
+        "channel_id": "UCfQk5qGOEO5cPPDFlQe2lFQ",
+        "status": "FAILED",
+        "passed": false,
+        "reasons": [
+          "Followers (209,000) exceed micro-influencer ceiling (100,000 - Macro tier)."
+        ],
+        "follower_count": 209000,
+        "engagement_rate": 0.14,
+        "niche_relevance_score": 1.0
+      }
+    },
+    {
+      "profile": {
+        "channel_id": "UCQYWJFtyDSIBjdIQV8CkhCQ",
+        "name": "Tintu Vlogger",
+        "platform": "YouTube",
+        "profile_url": "https://www.youtube.com/@tintuvlogger",
+        "follower_count": 41100,
+        "engagement_rate": 0.03,
+        "niche": "Tech & AI Tools",
+        "content_themes": [
+          "Python & Coding"
+        ],
+        "contact_email": "Not Found",
+        "secondary_handles": "@tintuvlogger",
+        "website": null,
+        "audience_geography": "Global",
+        "audience_age": "18-34",
+        "audience_gender": "Mixed",
+        "recent_video_title": "\u0d28\u0d3f\u0d19\u0d4d\u0d19\u0d7e Passive Learning \u0d06\u0d23\u0d4b \u0d1a\u0d46\u0d2f\u0d4d\u0d2f\u0d41\u0d28\u0d4d\u0d28\u0d24\u0d4d ?",
+        "recent_video_description": ""
+      },
+      "audit": {
+        "influencer_name": "Tintu Vlogger",
+        "channel_id": "UCQYWJFtyDSIBjdIQV8CkhCQ",
+        "status": "FAILED",
+        "passed": false,
+        "reasons": [
+          "Engagement rate (0.03%) below active threshold (0.05%)."
+        ],
+        "follower_count": 41100,
+        "engagement_rate": 0.03,
+        "niche_relevance_score": 0.33
+      }
+    },
+    {
+      "profile": {
+        "channel_id": "UC4JX40jDee_tINbkjycV4Sg",
+        "name": "Tech With Tim",
+        "platform": "YouTube",
+        "profile_url": "https://www.youtube.com/@techwithtim",
+        "follower_count": 2110000,
+        "engagement_rate": 0.01,
+        "niche": "Tech & AI Tools",
+        "content_themes": [
+          "AI & LLMs",
+          "Python & Coding"
+        ],
+        "contact_email": "Not Found",
+        "secondary_handles": "@techwithtim",
+        "website": null,
+        "audience_geography": "Global",
+        "audience_age": "18-34",
+        "audience_gender": "Mixed",
+        "recent_video_title": "I Gave My AI Agent My IDE. Here's What Changed.",
+        "recent_video_description": "Give your AI agent the same tools you use. Try JetBrains IDEs free \ud83d\udc49 https://jb.gg/IDEs-JetBrains\n\ud83d\udcd6 Why we still need an IDE (JetBrains blog): https://jb.gg/6d1jwb\n\nSome developers say AI killed the I"
+      },
+      "audit": {
+        "influencer_name": "Tech With Tim",
+        "channel_id": "UC4JX40jDee_tINbkjycV4Sg",
+        "status": "FAILED",
+        "passed": false,
+        "reasons": [
+          "Followers (2,110,000) exceed micro-influencer ceiling (100,000 - Macro tier).",
+          "Engagement rate (0.01%) below active threshold (0.05%)."
+        ],
+        "follower_count": 2110000,
+        "engagement_rate": 0.01,
+        "niche_relevance_score": 1.0
+      }
+    },
+    {
+      "profile": {
+        "channel_id": "UC8butISFwT-Wl7EV0hUK0BQ",
+        "name": "freeCodeCamp.org",
+        "platform": "YouTube",
+        "profile_url": "https://www.youtube.com/@freecodecamp",
+        "follower_count": 12000000,
+        "engagement_rate": 0.01,
+        "niche": "Tech & AI Tools",
+        "content_themes": [
+          "Python & Coding"
+        ],
+        "contact_email": "Not Found",
+        "secondary_handles": "@freecodecamp",
+        "website": null,
+        "audience_geography": "Global",
+        "audience_age": "18-34",
+        "audience_gender": "Mixed",
+        "recent_video_title": "Godot 4 Roguelike Course \u2013 Build a Complete Top-Down Action Game",
+        "recent_video_description": "Build a complete top-down action roguelike in Godot 4, from an empty project to a game a stranger can open and play. About 10 hours, 8 chapters, 31 lessons. Most lessons stop for a Your Turn, where yo"
+      },
+      "audit": {
+        "influencer_name": "freeCodeCamp.org",
+        "channel_id": "UC8butISFwT-Wl7EV0hUK0BQ",
+        "status": "FAILED",
+        "passed": false,
+        "reasons": [
+          "Followers (12,000,000) exceed micro-influencer ceiling (100,000 - Macro tier).",
+          "Engagement rate (0.01%) below active threshold (0.05%)."
+        ],
+        "follower_count": 12000000,
+        "engagement_rate": 0.01,
+        "niche_relevance_score": 0.67
+      }
+    },
+    {
+      "profile": {
+        "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+        "name": "Dan Martell",
+        "platform": "YouTube",
+        "profile_url": "https://www.youtube.com/@danmartell",
+        "follower_count": 3160000,
+        "engagement_rate": 0.01,
+        "niche": "Tech & AI Tools",
+        "content_themes": [
+          "AI & LLMs"
+        ],
+        "contact_email": "Not Found",
+        "secondary_handles": "@danmartell",
+        "website": null,
+        "audience_geography": "Global",
+        "audience_age": "18-34",
+        "audience_gender": "Mixed",
+        "recent_video_title": "Use my AI replacement ladder to decide what to automate",
+        "recent_video_description": "Use my AI replacement ladder to decide what to automate"
+      },
+      "audit": {
+        "influencer_name": "Dan Martell",
+        "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+        "status": "FAILED",
+        "passed": false,
+        "reasons": [
+          "Followers (3,160,000) exceed micro-influencer ceiling (100,000 - Macro tier).",
+          "Engagement rate (0.01%) below active threshold (0.05%)."
+        ],
+        "follower_count": 3160000,
+        "engagement_rate": 0.01,
+        "niche_relevance_score": 0.33
+      }
+    },
+    {
+      "profile": {
+        "channel_id": "UCZf_9SblvM8iTTkouFEcHtA",
+        "name": "Marina Wyss - AI & Machine Learning",
+        "platform": "YouTube",
+        "profile_url": "https://www.youtube.com/@marinawyssai",
+        "follower_count": 158000,
+        "engagement_rate": 0.18,
+        "niche": "Tech & AI Tools",
+        "content_themes": [
+          "AI & LLMs",
+          "Machine Learning"
+        ],
+        "contact_email": "business@gratitudedriven.com",
+        "secondary_handles": "@marinawyssai",
+        "website": null,
+        "audience_geography": "Global",
+        "audience_age": "18-34",
+        "audience_gender": "Mixed",
+        "recent_video_title": "The reality of the $300k engineer dream",
+        "recent_video_description": "Let\u2019s get real about big tech pay.\n\nA breakdown of the reality on tech salaries of $100, $200 and $300K: with two of the most interesting findings from a Levels.fyi report, and the fastest role to get"
+      },
+      "audit": {
+        "influencer_name": "Marina Wyss - AI & Machine Learning",
+        "channel_id": "UCZf_9SblvM8iTTkouFEcHtA",
+        "status": "FAILED",
+        "passed": false,
+        "reasons": [
+          "Followers (158,000) exceed micro-influencer ceiling (100,000 - Macro tier)."
+        ],
+        "follower_count": 158000,
+        "engagement_rate": 0.18,
+        "niche_relevance_score": 0.67
+      }
+    },
+    {
+      "profile": {
+        "channel_id": "UCktMIWomeuj4pwvBb-OBwMw",
+        "name": "Infinite Codes",
+        "platform": "YouTube",
+        "profile_url": "https://www.youtube.com/@infinitecodes_",
+        "follower_count": 138000,
+        "engagement_rate": 0.37,
+        "niche": "Tech & AI Tools",
+        "content_themes": [
+          "AI & LLMs",
+          "Python & Coding",
+          "Automation",
+          "Machine Learning"
+        ],
+        "contact_email": "Not Found",
+        "secondary_handles": "@infinitecodes_",
+        "website": null,
+        "audience_geography": "Global",
+        "audience_age": "18-34",
+        "audience_gender": "Mixed",
+        "recent_video_title": "What is Machine Learning? Your 2025 Guide to the AI Revolution",
+        "recent_video_description": "What is Machine Learning? Your 2025 Guide to the AI Revolution\n\nUnderstand the machine learning revolution that's reshaping everything from your social media feed to cancer diagnosis in this comprehen"
+      },
+      "audit": {
+        "influencer_name": "Infinite Codes",
+        "channel_id": "UCktMIWomeuj4pwvBb-OBwMw",
+        "status": "FAILED",
+        "passed": false,
+        "reasons": [
+          "Followers (138,000) exceed micro-influencer ceiling (100,000 - Macro tier)."
+        ],
+        "follower_count": 138000,
+        "engagement_rate": 0.37,
+        "niche_relevance_score": 1.0
+      }
+    },
+    {
+      "profile": {
+        "channel_id": "UCwAnu01qlnVg1Ai2AbtTMaA",
+        "name": "Jeff Su",
+        "platform": "YouTube",
+        "profile_url": "https://www.youtube.com/@jeffsu",
+        "follower_count": 1950000,
+        "engagement_rate": 0.12,
+        "niche": "Tech & AI Tools",
+        "content_themes": [
+          "AI & LLMs",
+          "Automation"
+        ],
+        "contact_email": "Not Found",
+        "secondary_handles": "@jeffsu",
+        "website": null,
+        "audience_geography": "Global",
+        "audience_age": "18-34",
+        "audience_gender": "Mixed",
+        "recent_video_title": "I knew AI + Notion would be good, but this... wow.",
+        "recent_video_description": "Grab my free Cowork Toolkit: https://coworkacademy.ai/toolkit?utm_source=youtube&utm_medium=video&utm_campaign=v213\n\nIf your #AI keeps creating Notion pages you have to fix, it needs to learn how YOU "
+      },
+      "audit": {
+        "influencer_name": "Jeff Su",
+        "channel_id": "UCwAnu01qlnVg1Ai2AbtTMaA",
+        "status": "FAILED",
+        "passed": false,
+        "reasons": [
+          "Followers (1,950,000) exceed micro-influencer ceiling (100,000 - Macro tier)."
+        ],
+        "follower_count": 1950000,
+        "engagement_rate": 0.12,
+        "niche_relevance_score": 0.67
+      }
+    },
+    {
+      "profile": {
+        "channel_id": "UCQW39FrlzEccCP2OyeOZXHg",
+        "name": "Automation with Geetha",
+        "platform": "YouTube",
+        "profile_url": "https://www.youtube.com/@automationwithgeetha",
+        "follower_count": 141,
+        "engagement_rate": 4.68,
+        "niche": "Tech & AI Tools",
+        "content_themes": [
+          "AI & LLMs",
+          "Python & Coding",
+          "Automation"
+        ],
+        "contact_email": "Not Found",
+        "secondary_handles": "@automationwithgeetha",
+        "website": null,
+        "audience_geography": "Global",
+        "audience_age": "18-34",
+        "audience_gender": "Mixed",
+        "recent_video_title": "\ud83d\udd25 Send WhatsApp Messages Automatically Using Python!",
+        "recent_video_description": "Want to automate WhatsApp messages using Python? \ud83d\ude80 In this tutorial, I'll show you how to send WhatsApp messages automatically with Python in a simple and beginner-friendly way.\n\nIn this video, you'll"
+      },
+      "audit": {
+        "influencer_name": "Automation with Geetha",
+        "channel_id": "UCQW39FrlzEccCP2OyeOZXHg",
+        "status": "FAILED",
+        "passed": false,
+        "reasons": [
+          "Followers (141) below micro-influencer minimum threshold (5,000)."
+        ],
+        "follower_count": 141,
+        "engagement_rate": 4.68,
+        "niche_relevance_score": 1.0
+      }
+    },
+    {
+      "profile": {
+        "channel_id": "UC8wZnXYK_CGKlBcZp-GxYPA",
+        "name": "NeuralNine",
+        "platform": "YouTube",
+        "profile_url": "https://www.youtube.com/@neuralnine",
+        "follower_count": 489000,
+        "engagement_rate": 0.03,
+        "niche": "Tech & AI Tools",
+        "content_themes": [
+          "AI & LLMs",
+          "Python & Coding",
+          "Tech Reviews",
+          "Machine Learning"
+        ],
+        "contact_email": "Not Found",
+        "secondary_handles": "@neuralnine",
+        "website": null,
+        "audience_geography": "Global",
+        "audience_age": "18-34",
+        "audience_gender": "Mixed",
+        "recent_video_title": "Hermes Agent Crash Course: From Basics to Advanced",
+        "recent_video_description": "Get your VPS from Hostinger: https://hostinger.com/neuralnine10 with code NEURALNINE10 for 10% off!\n\n\ud83d\udcbb\ufe0f Need some help with a project or some consulting? Contact me here: https://www.neuralnine.com/se"
+      },
+      "audit": {
+        "influencer_name": "NeuralNine",
+        "channel_id": "UC8wZnXYK_CGKlBcZp-GxYPA",
+        "status": "FAILED",
+        "passed": false,
+        "reasons": [
+          "Followers (489,000) exceed micro-influencer ceiling (100,000 - Macro tier).",
+          "Engagement rate (0.03%) below active threshold (0.05%)."
+        ],
+        "follower_count": 489000,
+        "engagement_rate": 0.03,
+        "niche_relevance_score": 1.0
+      }
+    },
+    {
+      "profile": {
+        "channel_id": "UCVmKVD1r-RwmagvXCLR_dcw",
+        "name": "Code Nust",
+        "platform": "YouTube",
+        "profile_url": "https://www.youtube.com/@codenust",
+        "follower_count": 40100,
+        "engagement_rate": 0.02,
+        "niche": "Tech & AI Tools",
+        "content_themes": [
+          "AI & LLMs",
+          "Python & Coding"
+        ],
+        "contact_email": "codenust5@gmail.com",
+        "secondary_handles": "@codenust",
+        "website": null,
+        "audience_geography": "Global",
+        "audience_age": "18-34",
+        "audience_gender": "Mixed",
+        "recent_video_title": "Turn Any Website into CSV: Build an Auto Scraper GUI in Python",
+        "recent_video_description": "Build an Automated Web Scraper with Python and a Desktop GUI!\n\nIn this Python project, I\u2019ll show you how to create an automated web scraping application with a graphical user interface using Python, T"
+      },
+      "audit": {
+        "influencer_name": "Code Nust",
+        "channel_id": "UCVmKVD1r-RwmagvXCLR_dcw",
+        "status": "FAILED",
+        "passed": false,
+        "reasons": [
+          "Engagement rate (0.02%) below active threshold (0.05%)."
+        ],
+        "follower_count": 40100,
+        "engagement_rate": 0.02,
+        "niche_relevance_score": 1.0
+      }
+    },
+    {
+      "profile": {
+        "channel_id": "UCJRq64OJFp9b8tRoow-amNA",
+        "name": "Digitadri \u2022 55k views \u2022 5 hours ago",
+        "platform": "YouTube",
+        "profile_url": "https://www.youtube.com/@digitadri",
+        "follower_count": 23,
+        "engagement_rate": 126.09,
+        "niche": "Tech & AI Tools",
+        "content_themes": [
+          "AI & LLMs"
+        ],
+        "contact_email": "Not Found",
+        "secondary_handles": "@digitadri",
+        "website": null,
+        "audience_geography": "Global",
+        "audience_age": "18-34",
+        "audience_gender": "Mixed",
+        "recent_video_title": "100 Claude Commands That Save You Hours Every Day \u26a1 #Claude #AI",
+        "recent_video_description": "\ud83d\ude80 100 CLAUDE COMMANDS YOU NEED TO KNOW! Save this infographic and start using Claude like a pro today.\n\nMost people type long, messy prompts and get average answers. In this Short, you get a complete "
+      },
+      "audit": {
+        "influencer_name": "Digitadri \u2022 55k views \u2022 5 hours ago",
+        "channel_id": "UCJRq64OJFp9b8tRoow-amNA",
+        "status": "FAILED",
+        "passed": false,
+        "reasons": [
+          "Followers (23) below micro-influencer minimum threshold (5,000)."
+        ],
+        "follower_count": 23,
+        "engagement_rate": 126.09,
+        "niche_relevance_score": 0.33
+      }
+    },
+    {
+      "profile": {
+        "channel_id": "UCKZozRVHRYsYHGEyNKuhhdA",
+        "name": "Think School",
+        "platform": "YouTube",
+        "profile_url": "https://www.youtube.com/@thinkschool",
+        "follower_count": 6620000,
+        "engagement_rate": 0.01,
+        "niche": "Tech & AI Tools",
+        "content_themes": [
+          "AI & LLMs",
+          "Python & Coding"
+        ],
+        "contact_email": "collabs@thethinkschool.com",
+        "secondary_handles": "@thinkschool",
+        "website": null,
+        "audience_geography": "Global",
+        "audience_age": "18-34",
+        "audience_gender": "Mixed",
+        "recent_video_title": "EXPECT this from EQUITY  Market or operate DIE in  LOSSES",
+        "recent_video_description": "\ud83d\udc49 Check Odoo: https://www.odoo.com/r/F0cs\nWatch the full episode here - https://www.youtube.com/watch?v=hjxaqZmvVPA&t=1185s"
+      },
+      "audit": {
+        "influencer_name": "Think School",
+        "channel_id": "UCKZozRVHRYsYHGEyNKuhhdA",
+        "status": "FAILED",
+        "passed": false,
+        "reasons": [
+          "Followers (6,620,000) exceed micro-influencer ceiling (100,000 - Macro tier).",
+          "Engagement rate (0.01%) below active threshold (0.05%)."
+        ],
+        "follower_count": 6620000,
+        "engagement_rate": 0.01,
+        "niche_relevance_score": 0.67
+      }
+    },
+    {
+      "profile": {
+        "channel_id": "UCCktnahuRFYIBtNnKT5IYyg",
+        "name": "Intellipaat",
+        "platform": "YouTube",
+        "profile_url": "https://www.youtube.com/@intellipaat",
+        "follower_count": 13400000,
+        "engagement_rate": 0.0,
+        "niche": "Tech & AI Tools",
+        "content_themes": [
+          "AI & LLMs",
+          "Machine Learning",
+          "DevOps & Cloud"
+        ],
+        "contact_email": "sales@intellipaat.com",
+        "secondary_handles": "@intellipaat",
+        "website": null,
+        "audience_geography": "Global",
+        "audience_age": "18-34",
+        "audience_gender": "Mixed",
+        "recent_video_title": "Data Analytics Complete Course Free | Full Data Analytics Course 2026 | Intellipaat",
+        "recent_video_description": "\ud83d\udd25Enroll for Data Analytics Course: https://intellipaat.com/data-analytics-master-training-course/\n\n\ud83d\udd25\ud835\udc01\ud835\udc28\ud835\udc28\ud835\udc24 \ud835\udc32\ud835\udc28\ud835\udc2e\ud835\udc2b \ud835\udc05\ud835\udc2b\ud835\udc1e\ud835\udc1e \ud835\udc0c\ud835\udc1a\ud835\udc2c\ud835\udc2d\ud835\udc1e\ud835\udc2b\ud835\udc1c\ud835\udc25\ud835\udc1a\ud835\udc2c\ud835\udc2c: https://forms.gle/g5tExa7e54xpYZW97\n\nLearn Data Analytics from scratch w"
+      },
+      "audit": {
+        "influencer_name": "Intellipaat",
+        "channel_id": "UCCktnahuRFYIBtNnKT5IYyg",
+        "status": "FAILED",
+        "passed": false,
+        "reasons": [
+          "Followers (13,400,000) exceed micro-influencer ceiling (100,000 - Macro tier).",
+          "Engagement rate (0.00%) below active threshold (0.05%)."
+        ],
+        "follower_count": 13400000,
+        "engagement_rate": 0.0,
+        "niche_relevance_score": 0.67
+      }
+    },
+    {
+      "profile": {
+        "channel_id": "UCAWlEyBwKpRXXvdRBkch-ng",
+        "name": "Coding Master",
+        "platform": "YouTube",
+        "profile_url": "https://www.youtube.com/@codingmasteryt",
+        "follower_count": 18600,
+        "engagement_rate": 0.01,
+        "niche": "Tech & AI Tools",
+        "content_themes": [
+          "AI & LLMs",
+          "Python & Coding"
+        ],
+        "contact_email": "codingmaster52@gmail.com",
+        "secondary_handles": "@codingmasteryt",
+        "website": null,
+        "audience_geography": "Global",
+        "audience_age": "18-34",
+        "audience_gender": "Mixed",
+        "recent_video_title": "What are the Limitations of CSS?",
+        "recent_video_description": ""
+      },
+      "audit": {
+        "influencer_name": "Coding Master",
+        "channel_id": "UCAWlEyBwKpRXXvdRBkch-ng",
+        "status": "FAILED",
+        "passed": false,
+        "reasons": [
+          "Engagement rate (0.01%) below active threshold (0.05%)."
+        ],
+        "follower_count": 18600,
+        "engagement_rate": 0.01,
+        "niche_relevance_score": 0.67
+      }
+    },
+    {
+      "profile": {
+        "channel_id": "UC9EM16FgJ0yxKW8j9NBpOyQ",
+        "name": "Coding With Sagar",
+        "platform": "YouTube",
+        "profile_url": "https://www.youtube.com/@codingwithsagarcw",
+        "follower_count": 515000,
+        "engagement_rate": 0.13,
+        "niche": "Tech & AI Tools",
+        "content_themes": [
+          "AI & LLMs",
+          "Python & Coding",
+          "Machine Learning"
+        ],
+        "contact_email": "sagar@codingwise.in",
+        "secondary_handles": "@codingwithsagarcw",
+        "website": null,
+        "audience_geography": "Global",
+        "audience_age": "18-34",
+        "audience_gender": "Mixed",
+        "recent_video_title": "PhonePe #systemdesign",
+        "recent_video_description": "How to Design a Reliable UPI Payment System?\n\n1\ufe0f\u20e3 Duplicate Payments \u2192 Idempotency Keys: Use a unique transaction ID to prevent double deductions, even if users tap Pay multiple times.\n\n2\ufe0f\u20e3 Money Debi"
+      },
+      "audit": {
+        "influencer_name": "Coding With Sagar",
+        "channel_id": "UC9EM16FgJ0yxKW8j9NBpOyQ",
+        "status": "FAILED",
+        "passed": false,
+        "reasons": [
+          "Followers (515,000) exceed micro-influencer ceiling (100,000 - Macro tier)."
+        ],
+        "follower_count": 515000,
+        "engagement_rate": 0.13,
+        "niche_relevance_score": 1.0
+      }
+    },
+    {
+      "profile": {
+        "channel_id": "UCLjuoEeCf_lsKyNgq-JOGhQ",
+        "name": "BMF MEDIA",
+        "platform": "YouTube",
+        "profile_url": "https://www.youtube.com/@beermoneyforum",
+        "follower_count": 536000,
+        "engagement_rate": 0.5,
+        "niche": "Tech & AI Tools",
+        "content_themes": [
+          "AI & LLMs",
+          "Automation",
+          "Tech Reviews"
+        ],
+        "contact_email": "bmfpartnerships@gmail.com",
+        "secondary_handles": "@beermoneyforum",
+        "website": null,
+        "audience_geography": "Global",
+        "audience_age": "18-34",
+        "audience_gender": "Mixed",
+        "recent_video_title": "GlobalGPT Review \u2014 100+ AI Models in ONE Platform! (GPT-6, Claude & Seedance 2.5)",
+        "recent_video_description": "#Ad #GlobalGPT #AIAssistant\n\nExplore a productivity app marketing workflow with GlobalGPT, a multi-model AI platform for research, AI writing, and video creation.\n\n\ud83d\udc4d Try GlobalGPT here: https://www.gl"
+      },
+      "audit": {
+        "influencer_name": "BMF MEDIA",
+        "channel_id": "UCLjuoEeCf_lsKyNgq-JOGhQ",
+        "status": "FAILED",
+        "passed": false,
+        "reasons": [
+          "Followers (536,000) exceed micro-influencer ceiling (100,000 - Macro tier)."
+        ],
+        "follower_count": 536000,
+        "engagement_rate": 0.5,
+        "niche_relevance_score": 1.0
+      }
+    },
+    {
+      "profile": {
+        "channel_id": "UC1XLb_DoX2eNWGKjkh2epwA",
+        "name": "DevOps Shack",
+        "platform": "YouTube",
+        "profile_url": "https://www.youtube.com/@devopsshack",
+        "follower_count": 241000,
+        "engagement_rate": 0.01,
+        "niche": "Tech & AI Tools",
+        "content_themes": [
+          "AI & LLMs",
+          "Python & Coding",
+          "DevOps & Cloud"
+        ],
+        "contact_email": "office@devopsshack.com",
+        "secondary_handles": "@devopsshack",
+        "website": null,
+        "audience_geography": "Global",
+        "audience_age": "18-34",
+        "audience_gender": "Mixed",
+        "recent_video_title": "Fix ImagePullBackOff? | DevOps Interview Q3 #shorts",
+        "recent_video_description": "Interview question #3: New release, and the pod shows ImagePullBackOff. Walk me through it.\n\nThe answer interviewers want:\n1. kubectl describe pod \u2192 read the pull error\n2. image name & tag \u2192 match the"
+      },
+      "audit": {
+        "influencer_name": "DevOps Shack",
+        "channel_id": "UC1XLb_DoX2eNWGKjkh2epwA",
+        "status": "FAILED",
+        "passed": false,
+        "reasons": [
+          "Followers (241,000) exceed micro-influencer ceiling (100,000 - Macro tier).",
+          "Engagement rate (0.01%) below active threshold (0.05%)."
+        ],
+        "follower_count": 241000,
+        "engagement_rate": 0.01,
+        "niche_relevance_score": 0.67
+      }
+    },
+    {
+      "profile": {
+        "channel_id": "UCY6N8zZhs2V7gNTUxPuKWoQ",
+        "name": "Ishan Sharma",
+        "platform": "YouTube",
+        "profile_url": "https://www.youtube.com/@ishansharma7390",
+        "follower_count": 2190000,
+        "engagement_rate": 0.06,
+        "niche": "Tech & AI Tools",
+        "content_themes": [
+          "AI & LLMs"
+        ],
+        "contact_email": "Not Found",
+        "secondary_handles": "@ishansharma7390",
+        "website": null,
+        "audience_geography": "Global",
+        "audience_age": "18-34",
+        "audience_gender": "Mixed",
+        "recent_video_title": "AI Bubble is Crashing, Do This NOW",
+        "recent_video_description": "Signup for zero to infinity AI Course: https://zerotoinfinitywithai.com/\n20% off for last few days\n\nIs the AI bubble bursting? \nIn this video, I break down what\u2019s going on in the world of AI, from Goo"
+      },
+      "audit": {
+        "influencer_name": "Ishan Sharma",
+        "channel_id": "UCY6N8zZhs2V7gNTUxPuKWoQ",
+        "status": "FAILED",
+        "passed": false,
+        "reasons": [
+          "Followers (2,190,000) exceed micro-influencer ceiling (100,000 - Macro tier)."
+        ],
+        "follower_count": 2190000,
+        "engagement_rate": 0.06,
+        "niche_relevance_score": 0.33
+      }
+    },
+    {
+      "profile": {
+        "channel_id": "UCZZ4ivUawsXRktLKej8d6Xw",
+        "name": "Mike O'Brien",
+        "platform": "YouTube",
+        "profile_url": "https://www.youtube.com/@mikeobrienmedia",
+        "follower_count": 666000,
+        "engagement_rate": 0.43,
+        "niche": "Tech & AI Tools",
+        "content_themes": [
+          "AI & LLMs",
+          "Tech Reviews"
+        ],
+        "contact_email": "mike@mikeobrienmedia.com",
+        "secondary_handles": "@mikeobrienmedia",
+        "website": null,
+        "audience_geography": "Global",
+        "audience_age": "18-34",
+        "audience_gender": "Mixed",
+        "recent_video_title": "Sony's Shocking New Product (MDR-3R Retro Wired Headphones)",
+        "recent_video_description": "It seems like everyone is switching to wired audio, and Sony just updated their iconic MDR-3 headphones with USB-C and some key upgrades for the modern era. How do we feel about this?\n\n\nFollow me on s"
+      },
+      "audit": {
+        "influencer_name": "Mike O'Brien",
+        "channel_id": "UCZZ4ivUawsXRktLKej8d6Xw",
+        "status": "FAILED",
+        "passed": false,
+        "reasons": [
+          "Followers (666,000) exceed micro-influencer ceiling (100,000 - Macro tier)."
+        ],
+        "follower_count": 666000,
+        "engagement_rate": 0.43,
+        "niche_relevance_score": 0.67
+      }
+    },
+    {
+      "profile": {
+        "channel_id": "UCOhHO2ICt0ti9KAh-QHvttQ",
+        "name": "Technical Guruji",
+        "platform": "YouTube",
+        "profile_url": "https://www.youtube.com/@technicalguruji",
+        "follower_count": 23700000,
+        "engagement_rate": 0.01,
+        "niche": "Tech & AI Tools",
+        "content_themes": [
+          "AI & LLMs",
+          "Tech Reviews"
+        ],
+        "contact_email": "business@technicalguruji.in",
+        "secondary_handles": "@technicalguruji",
+        "website": null,
+        "audience_geography": "Global",
+        "audience_age": "18-34",
+        "audience_gender": "Mixed",
+        "recent_video_title": "Sony Bravia Theatre TRIO Unboxing & First Look - Ultimate Home Theatre Experience!\ud83d\udd25\ud83d\udd25\ud83d\udd25",
+        "recent_video_description": "Namaskaar Dosto, aaj karte hain unboxing Sony BRAVIA Theatre TRIO ki! Sony ka yeh premium home theatre system kitna powerful hai? Is video mein explore karenge iska design, immersive surround sound, c"
+      },
+      "audit": {
+        "influencer_name": "Technical Guruji",
+        "channel_id": "UCOhHO2ICt0ti9KAh-QHvttQ",
+        "status": "FAILED",
+        "passed": false,
+        "reasons": [
+          "Followers (23,700,000) exceed micro-influencer ceiling (100,000 - Macro tier).",
+          "Engagement rate (0.01%) below active threshold (0.05%)."
+        ],
+        "follower_count": 23700000,
+        "engagement_rate": 0.01,
+        "niche_relevance_score": 0.67
+      }
+    },
+    {
+      "profile": {
+        "channel_id": "UC0yHbz4OxdQFwmVX2BBQqLg",
+        "name": "AI Master",
+        "platform": "YouTube",
+        "profile_url": "https://www.youtube.com/@iamaimaster",
+        "follower_count": 346000,
+        "engagement_rate": 0.05,
+        "niche": "Tech & AI Tools",
+        "content_themes": [
+          "AI & LLMs"
+        ],
+        "contact_email": "Not Found",
+        "secondary_handles": "@iamaimaster",
+        "website": null,
+        "audience_geography": "Global",
+        "audience_age": "18-34",
+        "audience_gender": "Mixed",
+        "recent_video_title": "Why AI Voices Sound Fake (And How to Fix It)",
+        "recent_video_description": "Try HeyGen https://www.heygen.com/?sid=rewardful&utm_content=creator&utm_medium=influencera&via=artur-vishnevskii\n\ud83d\ude80 Become an AI Master \u2013 All-in-one AI Learning https://aimaster.me/pro"
+      },
+      "audit": {
+        "influencer_name": "AI Master",
+        "channel_id": "UC0yHbz4OxdQFwmVX2BBQqLg",
+        "status": "FAILED",
+        "passed": false,
+        "reasons": [
+          "Followers (346,000) exceed micro-influencer ceiling (100,000 - Macro tier)."
+        ],
+        "follower_count": 346000,
+        "engagement_rate": 0.05,
+        "niche_relevance_score": 0.33
+      }
+    },
+    {
+      "profile": {
+        "channel_id": "UCrB7UFnkosBjAhOg3a9NdWw",
+        "name": "Grace Leung",
+        "platform": "YouTube",
+        "profile_url": "https://www.youtube.com/@graceleungyl",
+        "follower_count": 151000,
+        "engagement_rate": 0.83,
+        "niche": "Tech & AI Tools",
+        "content_themes": [
+          "AI & LLMs",
+          "Python & Coding"
+        ],
+        "contact_email": "Not Found",
+        "secondary_handles": "@graceleungyl",
+        "website": null,
+        "audience_geography": "Global",
+        "audience_age": "18-34",
+        "audience_gender": "Mixed",
+        "recent_video_title": "Claude Code: Build Your First AI Agent in 20 Minutes (100% No Coding)",
+        "recent_video_description": "Try Claude Code on the Max plan: https://clau.de/GraceLeung\n\nYou can use AI every day and still do most of the work yourself. A chatbot answers your questions. An AI agent takes the job off your plate"
+      },
+      "audit": {
+        "influencer_name": "Grace Leung",
+        "channel_id": "UCrB7UFnkosBjAhOg3a9NdWw",
+        "status": "FAILED",
+        "passed": false,
+        "reasons": [
+          "Followers (151,000) exceed micro-influencer ceiling (100,000 - Macro tier)."
+        ],
+        "follower_count": 151000,
+        "engagement_rate": 0.83,
+        "niche_relevance_score": 0.67
+      }
+    },
+    {
+      "profile": {
+        "channel_id": "UCSWZxpzUTkriCZRe0Nl0UqA",
+        "name": "YouFact Tech",
+        "platform": "YouTube",
+        "profile_url": "https://www.youtube.com/@youfacttech",
+        "follower_count": 958000,
+        "engagement_rate": 0.02,
+        "niche": "Tech & AI Tools",
+        "content_themes": [
+          "Tech Reviews"
+        ],
+        "contact_email": "Not Found",
+        "secondary_handles": "@youfacttech",
+        "website": null,
+        "audience_geography": "Global",
+        "audience_age": "18-34",
+        "audience_gender": "Mixed",
+        "recent_video_title": "Coolest Gadgets That Feel Like Magic",
+        "recent_video_description": "Take your personal data back with Incogni! Use code YOUFACT at the link below and get 60% off an annual plan: https://incogni.com/youfact\n\nFrom a levitating Back to the Future DeLorean to a clock made"
+      },
+      "audit": {
+        "influencer_name": "YouFact Tech",
+        "channel_id": "UCSWZxpzUTkriCZRe0Nl0UqA",
+        "status": "FAILED",
+        "passed": false,
+        "reasons": [
+          "Followers (958,000) exceed micro-influencer ceiling (100,000 - Macro tier).",
+          "Engagement rate (0.02%) below active threshold (0.05%)."
+        ],
+        "follower_count": 958000,
+        "engagement_rate": 0.02,
+        "niche_relevance_score": 0.33
+      }
+    }
+  ]
+}
