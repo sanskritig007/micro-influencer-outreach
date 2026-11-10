@@ -172,37 +172,6 @@ st.markdown(
         border: 1px solid rgba(99, 102, 241, 0.25);
     }
 
-    /* Pipeline Stepper */
-    .pipeline-container {
-        display: flex;
-        background: #111827;
-        border: 1px solid rgba(255, 255, 255, 0.06);
-        border-radius: 8px;
-        padding: 0.8rem 1.2rem;
-        margin-bottom: 1.8rem;
-        gap: 1.2rem;
-        align-items: center;
-        overflow-x: auto;
-    }
-    .pipeline-step {
-        font-size: 0.8rem;
-        font-weight: 600;
-        color: #64748B;
-        display: flex;
-        align-items: center;
-        gap: 0.5rem;
-        white-space: nowrap;
-    }
-    .pipeline-step.active { color: #818CF8; }
-    .pipeline-step.completed { color: #10B981; }
-    .step-dot {
-        width: 7px;
-        height: 7px;
-        border-radius: 50%;
-        background: currentColor;
-    }
-    .step-arrow { color: #334155; font-size: 0.75rem; }
-
     /* Sidebar Diagnostics */
     section[data-testid="stSidebar"] {
         background-color: #0E1424 !important;
@@ -296,30 +265,6 @@ st.markdown(
             <div class="brand-title">EDXSO Influencer Outreach Platform</div>
             <div class="brand-subtitle">Automated discovery, multi-criteria audit qualification, and LLM message synthesis</div>
         </div>
-    </div>
-    """,
-    unsafe_allow_html=True,
-)
-
-# Pipeline Stepper
-st.markdown(
-    """
-    <div class="pipeline-container">
-        <div class="pipeline-step completed"><span class="step-dot"></span>Discovery</div>
-        <span class="step-arrow">→</span>
-        <div class="pipeline-step completed"><span class="step-dot"></span>Batch Collection</div>
-        <span class="step-arrow">→</span>
-        <div class="pipeline-step completed"><span class="step-dot"></span>Filtering & Audit</div>
-        <span class="step-arrow">→</span>
-        <div class="pipeline-step completed"><span class="step-dot"></span>Enrichment</div>
-        <span class="step-arrow">→</span>
-        <div class="pipeline-step completed"><span class="step-dot"></span>AI Personalization</div>
-        <span class="step-arrow">→</span>
-        <div class="pipeline-step active"><span class="step-dot"></span>Review & Approval</div>
-        <span class="step-arrow">→</span>
-        <div class="pipeline-step"><span class="step-dot"></span>Dispatcher</div>
-        <span class="step-arrow">→</span>
-        <div class="pipeline-step"><span class="step-dot"></span>Tracking Log</div>
     </div>
     """,
     unsafe_allow_html=True,
