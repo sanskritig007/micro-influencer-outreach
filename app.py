@@ -52,15 +52,25 @@ st.markdown(
         height: 2.5rem !important;
     }
 
-    /* Keep Sidebar Toggle Arrow Button Visible and Accessible */
+    /* Keep Sidebar Toggle Arrow Button Visible in Streamlit 1.50 */
+    [data-testid="stExpandSidebarButton"],
     [data-testid="collapsedControl"] {
         display: flex !important;
         visibility: visible !important;
+        position: fixed !important;
+        top: 12px !important;
+        left: 12px !important;
         background: #1E293B !important;
-        border: 1px solid rgba(255, 255, 255, 0.1) !important;
+        border: 1px solid rgba(255, 255, 255, 0.2) !important;
         border-radius: 6px !important;
         color: #FFFFFF !important;
-        z-index: 999999 !important;
+        z-index: 9999999 !important;
+        box-shadow: 0 4px 14px rgba(0, 0, 0, 0.5) !important;
+    }
+    [data-testid="stExpandSidebarButton"] svg,
+    [data-testid="stExpandSidebarButton"] button {
+        fill: #FFFFFF !important;
+        color: #FFFFFF !important;
     }
 
     /* Main background */
@@ -269,6 +279,20 @@ simulate_toggle = st.sidebar.toggle(
     "Simulation Mode",
     value=True,
     help="Guarantees zero unsolicited external emails during system evaluation.",
+)
+
+# Auto-expand sidebar if collapsed
+st.html(
+    """
+    <script>
+    setTimeout(function() {
+        const btn = window.parent.document.querySelector('[data-testid="stExpandSidebarButton"]');
+        if (btn) {
+            btn.click();
+        }
+    }, 100);
+    </script>
+    """
 )
 
 # Top Brand Header
