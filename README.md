@@ -75,6 +75,24 @@ During the architectural design and implementation, several core technical trade
   2. **Sub-niche query rotation:** Rotating search vectors (e.g., `"machine learning tutorial"`, `"pytorch developer"`, `"llm engineering"`, `"python ai tools"`) to discover non-overlapping creator cohorts.
   3. **ID Batching:** Batching up to 50 channel IDs into a single `channels.list(id=..., part='statistics,snippet')` endpoint call, consuming only 1 quota unit for 50 creators instead of 50 units.
 
+### Q7: Why does YouTube API return non-micro creators initially, and how do we ensure a pool of 50+ purely qualified micro-creators?
+* **Core API Constraint:** YouTube Data API v3's `search.list` endpoint **does not support subscriber count filters** (e.g., no `minSubscribers` or `maxSubscribers` parameters exist in Google's API schema). Searches only filter by relevance, date, or query keywords. Therefore, an initial raw search will naturally return a cross-section of creators (from 50 subscribers to 5M+ subscribers).
+* **Engineering Solution for 50+ Purely Qualified Micro-Influencers:**
+  1. **Target-Driven Pagination Loop:** Instead of stopping after fetching a static batch of 50 results, we implement an accumulation loop:
+     ```python
+     qualified_creators = []
+     next_page_token = None
+     while len(qualified_creators) < TARGET_COUNT:  # e.g., 50
+         batch, next_page_token = fetch_youtube_page(query, page_token=next_page_token)
+         for creator in batch:
+             if 5_000 <= creator.subscribers <= 100_000 and creator.engagement_rate >= 0.0005:
+                 qualified_creators.append(creator)
+                 if len(qualified_creators) >= TARGET_COUNT:
+                     break
+     ```
+  2. **Long-Tail / Sub-Niche Query Targeting:** Broad queries like `"Python"` or `"Coding"` bias search ranking toward massive macro-creators (like *Programming with Mosh* or *freeCodeCamp*). By rotating into long-tail, developer-specific keywords (e.g., `"LangChain RAG tutorial"`, `"FastAPI docker production"`, `"Fine-tuning HuggingFace models"`), YouTube organically returns active practitioners whose channels predominantly fall in the 5k–80k subscriber bracket.
+  3. **`publishedAfter` Recency Filtering:** Restricting searches to videos published within the last 30–60 days isolates currently active, fast-growing micro-creators with peak engagement rates.
+
 ---
 
 ## 3. Deliverables Summary
