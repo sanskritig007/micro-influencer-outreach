@@ -4,6 +4,15 @@ An automated end-to-end intelligence and outreach pipeline designed to discover,
 
 ---
 
+### 🎥 Video Demo Walkthrough
+[![Watch Video Walkthrough](https://img.shields.io/badge/▶%20Watch%20Demo-Google%20Drive%20Video-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1JpQRVPDrk6r8gLtfwIgz4waeCLRd6rOG/view?usp=sharing)
+
+> **Direct Video Link:** [https://drive.google.com/file/d/1JpQRVPDrk6r8gLtfwIgz4waeCLRd6rOG/view?usp=sharing](https://drive.google.com/file/d/1JpQRVPDrk6r8gLtfwIgz4waeCLRd6rOG/view?usp=sharing)
+> 
+> *A full screen walkthrough showcasing live creator discovery, audit classification, Gemini 2.5 Flash personalization with guardrails, and idempotent dispatch simulation.*
+
+---
+
 ## 1. System Architecture & Pipeline Flow
 
 The platform operates as a multi-stage sequential pipeline where every stage produces verifiable data contracts:
@@ -101,9 +110,9 @@ During the architectural design and implementation, several core technical trade
 | :--- | :--- | :--- |
 | **Deliverable A: Interactive UI** | `app.py` | Modern Streamlit dashboard (`localhost:8501`) featuring Discovery Pool, Audit Table, AI Studio, and Dispatch Tracker. |
 | **Deliverable B: Influencer Dataset** | `data/influencer_dataset.csv` | 55 real creators with Followers, Engagement Rate, Niche, Email, Content Themes, Status, and Audit Reason. |
-| **Deliverable C: Personalized Pitches** | `data/personalized_messages.json` | Guardrailed Email pitches (60–90 words) and Instagram DMs (15–30 words) referencing recent video content. |
+| **Deliverable C: Personalized Pitches** | `data/personalized_messages.json`, `.csv` | Guardrailed Email pitches (60–90 words) and Instagram DMs (15–30 words) referencing recent video content. |
 | **Deliverable D: Outreach Tracker** | `data/outreach_tracker.csv` | Full delivery state tracking (`SENT`, `SIMULATED`, `SKIPPED_DUPLICATE`, `SKIPPED_NO_EMAIL`). |
-| **Deliverable E: Architecture & Docs** | `README.md` | Comprehensive system design, operational guides, and decision records. |
+| **Deliverable E: Documentation & Video** | `README.md` & [Google Drive Video](https://drive.google.com/file/d/1JpQRVPDrk6r8gLtfwIgz4waeCLRd6rOG/view?usp=sharing) | Comprehensive system design, operational guides, decision records, and video demo walkthrough. |
 
 ---
 
