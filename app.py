@@ -488,7 +488,19 @@ with tab3:
             pitches = json.load(f)
 
         influencer_names = [p["influencer_name"] for p in pitches]
-        selected_name = st.selectbox("Select Target Influencer:", influencer_names)
+        c_sel, c_dl = st.columns([1.4, 0.6])
+        with c_sel:
+            selected_name = st.selectbox("Select Target Influencer:", influencer_names)
+        with c_dl:
+            st.markdown("<div style='height: 28px;'></div>", unsafe_allow_html=True)
+            msg_df = pd.DataFrame(pitches)
+            st.download_button(
+                label="Download Messages (CSV)",
+                data=msg_df.to_csv(index=False).encode("utf-8"),
+                file_name="personalized_messages.csv",
+                mime="text/csv",
+                use_container_width=True,
+            )
 
         current_pitch = next((p for p in pitches if p["influencer_name"] == selected_name), None)
 
