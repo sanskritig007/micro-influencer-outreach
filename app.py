@@ -40,14 +40,28 @@ st.markdown(
         font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
     }
 
-    /* Completely Hide Streamlit Header, Deploy Button, and Default Menu */
-    #MainMenu {visibility: hidden; display: none !important;}
-    header {visibility: hidden; display: none !important;}
-    footer {visibility: hidden; display: none !important;}
-    [data-testid="stToolbar"] {visibility: hidden; display: none !important;}
-    [data-testid="stDecoration"] {visibility: hidden; display: none !important;}
-    [data-testid="stHeader"] {visibility: hidden; display: none !important;}
+    /* Hide Streamlit Clutter while KEEPING sidebar toggle visible */
+    #MainMenu {display: none !important;}
+    footer {display: none !important;}
+    [data-testid="stToolbar"] {display: none !important;}
+    [data-testid="stDecoration"] {display: none !important;}
     .stDeployButton {display: none !important;}
+
+    header {
+        background: transparent !important;
+        height: 2.5rem !important;
+    }
+
+    /* Keep Sidebar Toggle Arrow Button Visible and Accessible */
+    [data-testid="collapsedControl"] {
+        display: flex !important;
+        visibility: visible !important;
+        background: #1E293B !important;
+        border: 1px solid rgba(255, 255, 255, 0.1) !important;
+        border-radius: 6px !important;
+        color: #FFFFFF !important;
+        z-index: 999999 !important;
+    }
 
     /* Main background */
     .stApp {
